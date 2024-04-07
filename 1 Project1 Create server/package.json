@@ -1,0 +1,10 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This Is Sample Project",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "author": "patel_raj",
+  "license": "ISC"
+}
