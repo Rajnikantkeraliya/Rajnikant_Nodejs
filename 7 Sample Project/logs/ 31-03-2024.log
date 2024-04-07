@@ -1,0 +1,211 @@
+--------logs--------
+[+] 31-03-2024 09:00:37 Server is Listning undefined
+[+] 31-03-2024 09:01:47 Server is Listning undefined
+[+] 31-03-2024 09:01:59 Server is Listning 3000
+[+] 31-03-2024 09:02:51 Server is Listning 3000
+[+] 31-03-2024 09:03:12 Server is Listning 3000
+[+] 31-03-2024 09:04:08 Server is Listning 3000
+[+] 31-03-2024 09:04:27 Server is Listning 3000
+[+] 31-03-2024 09:05:08 Server is Listning 3000
+[+] 31-03-2024 09:05:22 Server is Listning 3000
+[+] 31-03-2024 09:05:35 Server is Listning 3000
+[+] 31-03-2024 09:05:58 Server is Listning 3000
+[+] 31-03-2024 09:06:04 Server is Listning 3000
+[+] 31-03-2024 09:06:21 Server is Listning 3000
+[+] 31-03-2024 09:06:23 Server is Listning 3000
+[+] 31-03-2024 09:06:29 Server is Listning 3000
+[+] 31-03-2024 09:12:15 Server is Listning 3000
+[+] 31-03-2024 09:13:53 Server is Listning 3000
+[*] 31-03-2024 09:15:45 GET /
+[*] 31-03-2024 09:15:45 GET /favicon.ico
+[+] 31-03-2024 09:18:06 Server is Listning 3000
+[*] 31-03-2024 09:23:11 GET /
+[*] 31-03-2024 09:23:26 GET /home
+[*] 31-03-2024 09:25:10 GET /About
+[+] 31-03-2024 09:35:06 Server is Listning 3000
+[+] 31-03-2024 09:35:14 Server is Listning 3000
+[+] 31-03-2024 09:35:26 Server is Listning 3000
+[+] 31-03-2024 09:35:42 Server is Listning 3000
+[+] 31-03-2024 09:35:44 Server is Listning 3000
+[+] 31-03-2024 09:36:04 Server is Listning 3000
+[+] 31-03-2024 09:36:23 Server is Listning 3000
+[+] 31-03-2024 09:36:36 Server is Listning 3000
+[+] 31-03-2024 09:36:41 Server is Listning 3000
+[+] 31-03-2024 09:36:45 Server is Listning 3000
+[+] 31-03-2024 09:36:53 Server is Listning 3000
+[+] 31-03-2024 09:37:19 Server is Listning 3000
+[+] 31-03-2024 09:37:30 Server is Listning 3000
+[+] 31-03-2024 09:37:39 Server is Listning 3000
+[+] 31-03-2024 09:37:44 Server is Listning 3000
+[+] 31-03-2024 09:38:20 Server is Listning 3000
+[*] 31-03-2024 09:38:35 GET /home
+[*] 31-03-2024 09:38:35 GET /favicon.ico
+[+] 31-03-2024 09:40:13 Server is Listning 3000
+[*] 31-03-2024 09:40:17 GET /home
+[*] 31-03-2024 09:40:17 GET /favicon.ico
+[+] 31-03-2024 09:42:11 Server is Listning 3000
+[*] 31-03-2024 09:42:21 GET /home
+[*] 31-03-2024 09:42:22 GET /favicon.ico
+[+] 31-03-2024 09:43:31 Server is Listning 3000
+[*] 31-03-2024 09:43:39 GET /home
+[*] 31-03-2024 09:43:39 GET /favicon.ico
+[+] 31-03-2024 09:44:09 Server is Listning 3000
+[*] 31-03-2024 09:44:13 GET /home
+[*] 31-03-2024 09:44:13 GET /favicon.ico
+[+] 31-03-2024 09:46:31 Server is Listning 3000
+[*] 31-03-2024 09:47:13 GET /home
+[+] 31-03-2024 09:47:44 Server is Listning 3000
+[*] 31-03-2024 09:47:53 GET /
+[*] 31-03-2024 09:48:15 GET /home
+[+] 31-03-2024 09:58:39 Server is Listning 3000
+[*] 31-03-2024 09:58:45 GET /
+[+] 31-03-2024 09:59:07 Server is Listning 3000
+[*] 31-03-2024 09:59:09 GET /
+[*] 31-03-2024 10:00:08 POST /
+[*] 31-03-2024 10:00:19 PUT /
+[*] 31-03-2024 10:00:22 GET /
+[+] 31-03-2024 10:05:22 Server is Listning 3000
+[+] 31-03-2024 10:05:28 Server is Listning 3000
+[+] 31-03-2024 10:05:37 Server is Listning 3000
+[+] 31-03-2024 10:05:44 Server is Listning 3000
+[+] 31-03-2024 10:05:48 Server is Listning 3000
+[*] 31-03-2024 10:06:23 GET /
+[*] 31-03-2024 10:06:34 GET /studentdata
+[*] 31-03-2024 10:06:59 GET /studentdata
+[*] 31-03-2024 10:07:32 GET /studentdata
+[+] 31-03-2024 10:08:00 Server is Listning 3000
+[*] 31-03-2024 10:08:08 GET /user
+[*] 31-03-2024 10:09:37 GET /user
+[*] 31-03-2024 10:09:42 POST /user
+[+] 31-03-2024 10:11:50 Server is Listning 3000
+[+] 31-03-2024 10:12:50 Server is Listning 3000
+[+] 31-03-2024 10:14:13 Server is Listning 3000
+[+] 31-03-2024 10:14:34 Server is Listning 3000
+[*] 31-03-2024 10:14:37 POST /user
+[*] 31-03-2024 10:14:42 GET /user
+[*] 31-03-2024 10:14:48 GET /home
+[*] 31-03-2024 10:15:24 POST /home
+[+] 31-03-2024 10:17:55 Server is Listning 3000
+[*] 31-03-2024 10:18:01 POST /home
+[+] 31-03-2024 10:20:59 Server is Listning 3000
+[+] 31-03-2024 11:45:44 Server is Listning 3000
+[+] 31-03-2024 11:46:07 Server is Listning 3000
+[+] 31-03-2024 11:46:31 Server is Listning 3000
+[+] 31-03-2024 11:47:03 Server is Listning 3000
+[+] 31-03-2024 11:47:25 Server is Listning 3000
+[+] 31-03-2024 11:47:32 Server is Listning 3000
+[+] 31-03-2024 11:48:26 Server is Listning 3000
+[+] 31-03-2024 11:49:16 Server is Listning 3000
+[+] 31-03-2024 11:49:22 Server is Listning 3000
+[+] 31-03-2024 11:49:37 Server is Listning 3000
+[+] 31-03-2024 11:50:42 Server is Listning 3000
+[+] 31-03-2024 11:50:47 Server is Listning 3000
+[+] 31-03-2024 11:50:59 Server is Listning 3000
+[+] 31-03-2024 11:51:19 Server is Listning 3000
+[+] 31-03-2024 11:51:28 Server is Listning 3000
+[+] 31-03-2024 11:51:52 Server is Listning 3000
+[+] 31-03-2024 11:52:04 Server is Listning 3000
+[+] 31-03-2024 11:52:36 Server is Listning 3000
+[+] 31-03-2024 11:52:54 Server is Listning 3000
+[*] 31-03-2024 11:53:22 POST /user
+[*] 31-03-2024 11:53:26 GET /user
+[-] 31-03-2024 11:53:26 TypeError: Databaseconnection.collection is not a function
+[+] 31-03-2024 11:55:39 Server is Listning 3000
+[+] 31-03-2024 11:55:52 Server is Listning 3000
+[*] 31-03-2024 11:55:59 GET /user
+[-] 31-03-2024 11:55:59 TypeError: dbconnection.Database is not a function
+[+] 31-03-2024 11:57:27 Server is Listning 3000
+[*] 31-03-2024 11:57:37 GET /user
+[+] 31-03-2024 11:58:24 Server is Listning 3000
+[+] 31-03-2024 11:58:57 Server is Listning 3000
+[*] 31-03-2024 11:59:00 GET /user
+[+] 31-03-2024 11:59:49 Server is Listning 3000
+[*] 31-03-2024 11:59:51 GET /user
+[+] 31-03-2024 12:15:48 Server is Listning 3000
+[+] 31-03-2024 12:21:19 Server is Listning 3000
+[+] 31-03-2024 12:33:08 Server is Listning 3000
+[+] 31-03-2024 12:33:48 Server is Listning 3000
+[*] 31-03-2024 12:34:11 POST /Home--------logs--------
+[+] 31-03-2024 20:58:58 Server is Listning 3000
+[*] 31-03-2024 20:59:18 GET /
+[*] 31-03-2024 20:59:36 GET /
+[*] 31-03-2024 20:59:40 GET /student
+[*] 31-03-2024 20:59:45 GET /user
+[*] 31-03-2024 20:59:54 GET /home
+[*] 31-03-2024 21:00:00 GET /home
+[*] 31-03-2024 21:00:02 GET /home
+[*] 31-03-2024 21:00:24 GET /home
+[*] 31-03-2024 21:00:44 POST /
+[*] 31-03-2024 21:00:53 POST /Home
+[+] 31-03-2024 22:07:21 Server is Listning 3000
+[+] 31-03-2024 22:07:21 Server is Listning 3000
+[+] 31-03-2024 22:07:46 Server is Listning 3000
+[*] 31-03-2024 22:08:19 GET /
+[*] 31-03-2024 22:08:28 GET /teacher
+[+] 31-03-2024 22:09:34 Server is Listning 3000
+[+] 31-03-2024 22:09:49 Server is Listning 3000
+[+] 31-03-2024 22:10:07 Server is Listning 3000
+[+] 31-03-2024 22:10:36 Server is Listning 3000
+[+] 31-03-2024 22:11:02 Server is Listning 3000
+[*] 31-03-2024 22:11:20 GET /
+[+] 31-03-2024 22:11:51 Server is Listning 3000
+[+] 31-03-2024 22:12:01 Server is Listning 3000
+[*] 31-03-2024 22:12:07 GET /
+[*] 31-03-2024 22:12:11 GET /
+[+] 31-03-2024 22:12:53 Server is Listning 3000
+[+] 31-03-2024 22:12:59 Server is Listning 3000
+[+] 31-03-2024 22:13:08 Server is Listning 3000
+[+] 31-03-2024 22:14:14 Server is Listning 3000
+[*] 31-03-2024 22:14:20 GET /
+[*] 31-03-2024 22:15:51 GET /api/teacher
+[*] 31-03-2024 22:15:59 GET /api/
+[*] 31-03-2024 22:16:04 GET /api/1
+[*] 31-03-2024 22:16:21 GET /api/teacher
+[*] 31-03-2024 22:16:27 GET /api/teacher/12
+[+] 31-03-2024 22:20:29 Server is Listning 3000
+[*] 31-03-2024 22:20:50 GET /
+[*] 31-03-2024 22:20:52 GET /
+[*] 31-03-2024 22:21:02 GET /api/teacher
+[*] 31-03-2024 22:21:06 GET /api/teacher/1
+[*] 31-03-2024 22:21:11 GET /api/teacher/
+[*] 31-03-2024 22:21:16 GET /api
+[+] 31-03-2024 22:37:39 Server is Listning 3000
+[+] 31-03-2024 22:38:21 Server is Listning 3000
+[+] 31-03-2024 22:40:34 Server is Listning 3000
+[+] 31-03-2024 22:41:04 Server is Listning 3000
+[+] 31-03-2024 22:41:28 Server is Listning 3000
+[+] 31-03-2024 22:41:56 Server is Listning 3000
+[+] 31-03-2024 22:42:20 Server is Listning 3000
+[+] 31-03-2024 22:42:41 Server is Listning 3000
+[+] 31-03-2024 22:43:28 Server is Listning 3000
+[+] 31-03-2024 22:44:23 Server is Listning 3000
+[+] 31-03-2024 22:44:47 Server is Listning 3000
+[+] 31-03-2024 22:45:51 Server is Listning 3000
+[*] 31-03-2024 22:46:36 GET /api/teacher
+[+] 31-03-2024 22:47:16 Server is Listning 3000
+[*] 31-03-2024 22:47:21 GET /api/teacher
+[-] 31-03-2024 22:47:21 TypeError: db.collection(...).find(...).toarray is not a function
+[+] 31-03-2024 22:48:30 Server is Listning 3000
+[+] 31-03-2024 22:49:19 Server is Listning 3000
+[*] 31-03-2024 22:49:29 GET /api/teacher
+[+] 31-03-2024 22:59:32 Server is Listning 3000
+[+] 31-03-2024 23:00:47 Server is Listning 3000
+[*] 31-03-2024 23:01:08 GET /api/teacher/6602d299a18843a71df9fc5b
+[+] 31-03-2024 23:04:19 Server is Listning 3000
+[+] 31-03-2024 23:04:50 Server is Listning 3000
+[+] 31-03-2024 23:05:43 Server is Listning 3000
+[+] 31-03-2024 23:06:29 Server is Listning 3000
+[+] 31-03-2024 23:28:12 Server is Listning 3000
+[+] 31-03-2024 23:29:32 Server is Listning 3000
+[+] 31-03-2024 23:30:25 Server is Listning 3000
+[+] 31-03-2024 23:30:33 Server is Listning 3000
+[+] 31-03-2024 23:30:52 Server is Listning 3000
+[+] 31-03-2024 23:33:07 Server is Listning 3000
+[+] 31-03-2024 23:33:32 Server is Listning 3000
+[*] 31-03-2024 23:33:43 GET /api/teacher
+[*] 31-03-2024 23:33:59 DELETE /api/teacher/6602d2efa18843a71df9fc5d
+[-] 31-03-2024 23:33:59 TypeError: db.collection(...).deleteone is not a function
+[+] 31-03-2024 23:34:33 Server is Listning 3000
+[*] 31-03-2024 23:34:42 DELETE /api/teacher/6602d2efa18843a71df9fc5d
+[*] 31-03-2024 23:34:49 DELETE /api/teacher
+[*] 31-03-2024 23:34:54 GET /api/teacher

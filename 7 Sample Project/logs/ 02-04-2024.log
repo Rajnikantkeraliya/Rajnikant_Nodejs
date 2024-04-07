@@ -1,0 +1,219 @@
+--------logs--------
+[+] 02-04-2024 14:32:30 Server is Listning 3000
+[*] 02-04-2024 14:32:39 GET /
+[*] 02-04-2024 14:32:51 GET /
+[+] 02-04-2024 14:38:11 Server is Listning 3000
+[*] 02-04-2024 14:38:13 GET /
+[+] 02-04-2024 14:39:07 Server is Listning 3000
+[*] 02-04-2024 14:39:17 GET /user/
+[*] 02-04-2024 14:39:17 GET /user/styles.css
+[+] 02-04-2024 14:54:15 Server is Listning 3000
+[*] 02-04-2024 14:54:19 GET /
+[*] 02-04-2024 14:54:22 GET /
+[*] 02-04-2024 14:54:27 GET /user
+[*] 02-04-2024 14:54:27 GET /styles.css
+[+] 02-04-2024 14:58:34 Server is Listning 3000
+[+] 02-04-2024 14:59:25 Server is Listning 3000
+[*] 02-04-2024 15:00:27 GET /user
+[*] 02-04-2024 15:00:27 GET /styles.css
+[*] 02-04-2024 15:01:00 GET /user
+[*] 02-04-2024 15:01:00 GET /styles.css
+[*] 02-04-2024 15:01:41 GET /user
+[*] 02-04-2024 15:01:41 GET /styles.css
+[*] 02-04-2024 15:01:41 GET /user
+[*] 02-04-2024 15:01:41 GET /styles.css
+[*] 02-04-2024 15:01:41 GET /user
+[*] 02-04-2024 15:01:41 GET /styles.css
+[*] 02-04-2024 15:01:41 GET /user
+[*] 02-04-2024 15:01:41 GET /styles.css
+[+] 02-04-2024 15:01:51 Server is Listning 3000
+[+] 02-04-2024 15:02:21 Server is Listning 3000
+[*] 02-04-2024 15:02:28 GET /styles.css
+[+] 02-04-2024 15:02:57 Server is Listning 3000
+[*] 02-04-2024 15:02:57 GET /user
+[*] 02-04-2024 15:02:57 GET /styles.css
+[*] 02-04-2024 15:02:58 GET /user
+[*] 02-04-2024 15:02:58 GET /styles.css
+[*] 02-04-2024 15:02:58 GET /user
+[*] 02-04-2024 15:02:58 GET /styles.css
+[*] 02-04-2024 15:02:58 GET /user
+[*] 02-04-2024 15:02:58 GET /styles.css
+[*] 02-04-2024 15:02:58 GET /user
+[*] 02-04-2024 15:02:58 GET /styles.css
+[*] 02-04-2024 15:02:59 GET /user
+[*] 02-04-2024 15:02:59 GET /styles.css
+[*] 02-04-2024 15:04:05 GET /user
+[*] 02-04-2024 15:04:05 GET /styles.css
+[+] 02-04-2024 15:22:15 Server is Listning 3000
+[+] 02-04-2024 15:22:25 Server is Listning 3000
+[+] 02-04-2024 15:22:35 Server is Listning 3000
+[+] 02-04-2024 15:26:38 Server is Listning 3000
+[*] 02-04-2024 15:27:20 GET /
+[*] 02-04-2024 15:27:27 GET /user/
+[*] 02-04-2024 15:27:27 GET /user/styles.css
+[+] 02-04-2024 15:47:48 Server is Listning 3000
+[*] 02-04-2024 16:04:51 GET /user/
+[*] 02-04-2024 16:04:55 GET /user/
+[*] 02-04-2024 16:05:20 GET /user/
+[*] 02-04-2024 16:06:00 GET /user/
+[*] 02-04-2024 16:06:00 GET /user/
+[*] 02-04-2024 16:06:01 GET /user/
+[*] 02-04-2024 16:06:01 GET /user/
+[+] 02-04-2024 16:06:27 Server is Listning 3000
+[*] 02-04-2024 16:06:33 GET /user/
+[*] 02-04-2024 16:06:33 GET /user/
+[*] 02-04-2024 16:06:34 GET /user/
+[+] 02-04-2024 16:07:23 Server is Listning 3000
+[*] 02-04-2024 16:07:23 GET /user/
+[*] 02-04-2024 16:07:23 GET /user/
+[+] 02-04-2024 16:08:11 Server is Listning 3000
+[*] 02-04-2024 16:08:12 GET /user/
+[*] 02-04-2024 16:08:12 GET /user/styles.css
+[*] 02-04-2024 16:08:12 GET /user/
+[*] 02-04-2024 16:08:12 GET /user/styles.css
+[*] 02-04-2024 16:09:47 GET /user/
+[*] 02-04-2024 16:09:47 GET /user/styles.css
+[*] 02-04-2024 16:09:47 GET /user/styles.css
+[*] 02-04-2024 16:15:40 GET /user/
+[*] 02-04-2024 16:15:40 GET /user/css/index.css
+[+] 02-04-2024 16:50:41 Server is Listning 3000
+[*] 02-04-2024 16:50:47 GET /user/
+[*] 02-04-2024 16:50:47 GET /public/CSS/index.css
+[*] 02-04-2024 16:50:47 GET /public/CSS/index.css
+[*] 02-04-2024 16:50:51 GET /public/CSS/index.css
+[*] 02-04-2024 16:53:49 GET /
+[*] 02-04-2024 16:53:52 GET /
+[*] 02-04-2024 16:53:57 GET /user
+[*] 02-04-2024 16:56:37 GET /user
+[+] 02-04-2024 17:13:50 Server is Listning 3000
+[+] 02-04-2024 17:15:57 Server is Listning 3000
+[+] 02-04-2024 17:16:07 Server is Listning 3000
+[+] 02-04-2024 17:16:15 Server is Listning 3000
+[+] 02-04-2024 17:16:24 Server is Listning 3000
+[+] 02-04-2024 17:22:48 Server is Listning 3000
+[+] 02-04-2024 17:22:57 Server is Listning 3000
+[+] 02-04-2024 17:23:02 Server is Listning 3000
+[+] 02-04-2024 17:26:52 Server is Listning 3000
+[+] 02-04-2024 17:27:07 Server is Listning 3000
+[+] 02-04-2024 17:27:12 Server is Listning 3000
+[+] 02-04-2024 17:27:22 Server is Listning 3000
+[*] 02-04-2024 17:30:34 GET /user
+[*] 02-04-2024 17:31:20 GET /user
+[*] 02-04-2024 17:31:42 GET /user
+[+] 02-04-2024 20:53:27 Server is Listning 3000
+[*] 02-04-2024 20:53:42 GET /
+[*] 02-04-2024 20:53:46 GET /user
+[*] 02-04-2024 20:54:08 GET /user
+[+] 02-04-2024 20:59:03 Server is Listning 3000
+[+] 02-04-2024 20:59:18 Server is Listning 3000
+[+] 02-04-2024 20:59:47 Server is Listning 3000
+[+] 02-04-2024 21:00:00 Server is Listning 3000
+[+] 02-04-2024 21:00:07 Server is Listning 3000
+[+] 02-04-2024 21:00:30 Server is Listning 3000
+[+] 02-04-2024 21:00:34 Server is Listning 3000
+[+] 02-04-2024 21:00:37 Server is Listning 3000
+[+] 02-04-2024 21:01:01 Server is Listning 3000
+[+] 02-04-2024 21:03:27 Server is Listning 3000
+[+] 02-04-2024 21:03:34 Server is Listning 3000
+[+] 02-04-2024 21:04:05 Server is Listning 3000
+[+] 02-04-2024 21:04:51 Server is Listning 3000
+[+] 02-04-2024 21:05:37 Server is Listning 3000
+[+] 02-04-2024 21:06:00 Server is Listning 3000
+[+] 02-04-2024 21:17:01 Server is Listning 3000
+[+] 02-04-2024 21:34:05 Server is Listning 3000
+[*] 02-04-2024 21:34:10 GET /user
+[*] 02-04-2024 21:37:53 GET /user
+[+] 02-04-2024 21:38:24 Server is Listning 3000
+[*] 02-04-2024 21:38:58 GET /
+[*] 02-04-2024 21:38:59 GET /
+[*] 02-04-2024 21:39:03 GET /user
+[+] 02-04-2024 21:41:28 Server is Listning 3000
+[+] 02-04-2024 21:41:59 Server is Listning 3000
+[+] 02-04-2024 21:42:03 Server is Listning 3000
+[+] 02-04-2024 21:42:09 Server is Listning 3000
+[+] 02-04-2024 21:42:21 Server is Listning 3000
+[+] 02-04-2024 21:44:05 Server is Listning 3000
+[*] 02-04-2024 21:44:05 GET /user
+[+] 02-04-2024 21:47:39 Server is Listning 3000
+[+] 02-04-2024 21:47:55 Server is Listning 3000
+[*] 02-04-2024 21:47:56 GET /user
+[*] 02-04-2024 21:48:19 GET /user
+[*] 02-04-2024 21:48:20 GET /user
+[*] 02-04-2024 21:48:20 GET /user
+[*] 02-04-2024 21:48:20 GET /user
+[*] 02-04-2024 21:48:20 GET /user
+[*] 02-04-2024 21:48:21 GET /user
+[+] 02-04-2024 21:48:51 Server is Listning 3000
+[+] 02-04-2024 21:50:27 Server is Listning 3000
+[+] 02-04-2024 21:50:46 Server is Listning 3000
+[+] 02-04-2024 21:50:50 Server is Listning 3000
+[*] 02-04-2024 21:50:58 GET /
+[*] 02-04-2024 21:51:03 GET /user
+[+] 02-04-2024 21:52:32 Server is Listning 3000
+[*] 02-04-2024 21:55:40 GET /user
+[*] 02-04-2024 21:55:41 GET /user
+[*] 02-04-2024 21:55:41 GET /user
+[*] 02-04-2024 21:55:58 GET /user
+[*] 02-04-2024 21:55:59 GET /user
+[+] 02-04-2024 21:57:07 Server is Listning 3000
+[*] 02-04-2024 21:57:08 GET /user
+[*] 02-04-2024 21:57:08 GET /user
+[*] 02-04-2024 21:57:08 GET /user
+[+] 02-04-2024 21:58:15 Server is Listning 3000
+[*] 02-04-2024 21:59:04 GET /user
+[*] 02-04-2024 21:59:14 POST /api/teacher/login
+[+] 02-04-2024 22:03:43 Server is Listning 3000
+[+] 02-04-2024 22:03:57 Server is Listning 3000
+[+] 02-04-2024 22:04:08 Server is Listning 3000
+[+] 02-04-2024 22:04:24 Server is Listning 3000
+[+] 02-04-2024 22:04:36 Server is Listning 3000
+[+] 02-04-2024 22:05:02 Server is Listning 3000
+[+] 02-04-2024 22:05:28 Server is Listning 3000
+[*] 02-04-2024 22:05:29 GET /user
+[*] 02-04-2024 22:05:30 GET /user
+[*] 02-04-2024 22:05:30 GET /user
+[*] 02-04-2024 22:05:30 GET /user
+[*] 02-04-2024 22:05:37 POST /api/teacher/login
+[+] 02-04-2024 22:07:13 Server is Listning 3000
+[+] 02-04-2024 22:07:26 Server is Listning 3000
+[+] 02-04-2024 22:07:37 Server is Listning 3000
+[+] 02-04-2024 22:10:50 Server is Listning 3000
+[*] 02-04-2024 22:11:09 POST /api/teacher/login
+[*] 02-04-2024 22:11:09 POST /api/teacher/login
+[*] 02-04-2024 22:11:09 POST /api/teacher/login
+[*] 02-04-2024 22:11:09 POST /api/teacher/login
+[+] 02-04-2024 22:11:18 Server is Listning 3000
+[*] 02-04-2024 22:11:20 POST /api/teacher/login
+[+] 02-04-2024 22:13:19 Server is Listning 3000
+[*] 02-04-2024 22:13:21 POST /api/teacher/login
+[+] 02-04-2024 22:15:29 Server is Listning 3000
+[*] 02-04-2024 22:15:33 GET /user
+[*] 02-04-2024 22:15:39 POST /api/teacher/login
+[+] 02-04-2024 22:16:01 Server is Listning 3000
+[+] 02-04-2024 22:34:22 Server is Listning 3000
+[+] 02-04-2024 22:34:54 Server is Listning 3000
+[+] 02-04-2024 22:35:00 Server is Listning 3000
+[+] 02-04-2024 22:35:09 Server is Listning 3000
+[+] 02-04-2024 22:35:27 Server is Listning 3000
+[+] 02-04-2024 22:35:50 Server is Listning 3000
+[+] 02-04-2024 22:36:01 Server is Listning 3000
+[+] 02-04-2024 22:36:16 Server is Listning 3000
+[+] 02-04-2024 22:36:30 Server is Listning 3000
+[+] 02-04-2024 22:36:41 Server is Listning 3000
+[+] 02-04-2024 22:36:50 Server is Listning 3000
+[+] 02-04-2024 22:37:21 Server is Listning 3000
+[+] 02-04-2024 22:37:31 Server is Listning 3000
+[+] 02-04-2024 22:37:42 Server is Listning 3000
+[+] 02-04-2024 22:37:48 Server is Listning 3000
+[+] 02-04-2024 22:37:56 Server is Listning 3000
+[+] 02-04-2024 22:38:51 Server is Listning 3000
+[+] 02-04-2024 22:39:16 Server is Listning 3000
+[+] 02-04-2024 22:39:35 Server is Listning 3000
+[+] 02-04-2024 22:40:03 Server is Listning 3000
+[+] 02-04-2024 22:40:39 Server is Listning 3000
+[+] 02-04-2024 22:40:56 Server is Listning 3000
+[+] 02-04-2024 22:41:14 Server is Listning 3000
+[*] 02-04-2024 22:41:29 POST /api/teacher/login
+[+] 02-04-2024 22:41:55 Server is Listning 3000
+[*] 02-04-2024 22:42:00 GET /user
+[*] 02-04-2024 22:42:31 POST /api/teacher/login
