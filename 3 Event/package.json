@@ -1,0 +1,11 @@
+{
+  "name": "event-and-file-uplode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "npm start App.js"
+  },
+  "author": "Rajnikant",
+  "license": "ISC"
+}
