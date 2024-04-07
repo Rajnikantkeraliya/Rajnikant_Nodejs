@@ -1,0 +1,134 @@
+ @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Spectral:wght@500&display=swap');
+
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'Spectral', serif;
+
+ }
+
+ body {
+     background-color: transparent;
+     overflow: hidden;
+ }
+
+ a {
+     display: block;
+     text-decoration: none;
+     font-size: 1.6rem;
+     margin: 0.5em;
+     text-align: center;
+     color: black;
+ }
+
+ .row {
+     display: flex;
+ }
+
+ .col-20 {
+     width: 20%;
+     /*   margin: 1em 0 0 3em; */
+     box-shadow: 3px 2px 15px gray;
+     background: linear-gradient(45deg, #ffb4a2, #6d6875);
+     width: 30%;
+     overflow: scroll;
+     height: 102vh;
+     padding: 20px 0;
+ }
+
+ .col-80 {
+     width: 100%;
+     /* margin: 1em 0 0 0; */
+     height: 102vh;
+     background: linear-gradient(45deg, #0a9396, #2e2d2d);
+     color: rgb(239, 239, 239);
+     box-shadow: 3px 2px 15px gray;
+     overflow: scroll;
+
+ }
+
+ .dis {
+     display: none;
+ }
+
+ .margin {
+     margin: 5em;
+     color: white;
+ }
+
+ #top {
+     margin-top: 1.5em 2.5em;
+ }
+
+ .col-20 h2 {
+     font-size: 2em;
+     text-align: center;
+     /*   margin: 1em; */
+     color: rgb(127, 215, 12);
+     text-shadow: 0 0 8px rgb(8, 111, 171);
+ }
+
+ .ans p {
+     margin: 0.4em;
+     color: #f1faee;
+     text-shadow: 0 0 15px rgb(24, 4, 4);
+     font-size: 1.5em;
+ }
+
+ .tital h3 {
+     font-size: 3em;
+     margin-top: 1em;
+     text-align: center;
+     /*  margin: 1em; */
+     color: #ff4d6d;
+     text-shadow: 0 0 8px rgb(8, 111, 171);
+ }
+
+ .que h2 {
+     color: #121113;
+     /* text-shadow: 0 0 8px red; */
+     font-size: 2.3em;
+ }
+
+ li {
+     color: rgb(0, 255, 38);
+     font-size: 1.8em;
+ }
+
+ Button {
+     padding: 5px 30px;
+ }
+
+ table {
+     border: 0.01em solid black;
+     margin-top: 2rem;
+     width: 100%;
+     border-collapse: collapse;
+     border-radius: 5px;
+     overflow: hidden;
+     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+     margin-bottom: 20px;
+ }
+
+ th,
+ td {
+
+     padding: 12px 15px;
+     text-align: left;
+     border-bottom: 1px solid #ddd;
+ }
+
+ th {
+     background-color: #9bafc4;
+     color: #000000;
+     font-weight: bold;
+ }
+
+ tr:nth-child(even) {
+     background-color: gray;
+ }
+
+ tr:hover {
+     background-color: gray;
+ }

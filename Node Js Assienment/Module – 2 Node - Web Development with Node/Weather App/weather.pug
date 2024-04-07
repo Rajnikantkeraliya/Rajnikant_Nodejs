@@ -1,0 +1,9 @@
+doctype html
+html(lang="en")
+  head
+    title= `Weather in ${weatherData.location.name}, ${weatherData.location.country}`
+  body
+    h1 Weather in #{weatherData.location.name}, #{weatherData.location.country}
+    p Temperature: #{weatherData.current.temp_c}°C
+    p Condition: #{weatherData.current.condition.text}
+    img(src=`https:${weatherData.current.condition.icon}`, alt=weatherData.current.condition.text)

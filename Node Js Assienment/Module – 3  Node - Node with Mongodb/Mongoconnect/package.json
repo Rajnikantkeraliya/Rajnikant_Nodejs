@@ -1,0 +1,14 @@
+{
+  "name": "mongoconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AllDatashow.js",
+  "scripts": {
+    "start": "npm start AllDatashow.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}
