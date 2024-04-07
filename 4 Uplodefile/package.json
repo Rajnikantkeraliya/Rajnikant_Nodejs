@@ -1,0 +1,14 @@
+{
+  "name": "rajnikant_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "npm start App.js"
+  },
+  "author": "Rajnikant",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^3.5.1"
+  }
+}
