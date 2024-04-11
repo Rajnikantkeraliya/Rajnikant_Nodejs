@@ -40,7 +40,7 @@ async function showalldata() {
 
 }
 
-// showalldata()
+showalldata()
 
 
 //Specific Data Updation
@@ -111,4 +111,4 @@ async function deleteCollection() {
     }
 }
 
-deleteCollection();
+// deleteCollection();
