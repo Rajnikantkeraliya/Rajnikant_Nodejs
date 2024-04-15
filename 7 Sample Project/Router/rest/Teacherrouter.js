@@ -71,7 +71,7 @@ teacherrouter.post("/login", (req, res) => {
 
 
 //Route to delete Specific Teacher Data
-/* teacherrouter.delete('/:id', (req, res) => {
+teacherrouter.delete('/:id', (req, res) => {
     util.getdbconnection(function (db) {
 
         if (db) {
@@ -86,7 +86,7 @@ teacherrouter.post("/login", (req, res) => {
 
 
     })
-}) */
+})
 
 // teacherrouter.put()
 

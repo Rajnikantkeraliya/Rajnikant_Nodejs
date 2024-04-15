@@ -1,0 +1,9 @@
+--------logs--------
+[+] 09-04-2024 14:57:55 Server is Listning 3000
+[*] 09-04-2024 14:58:13 GET /
+[*] 09-04-2024 14:59:06 POST /api/teacher/login
+[+] 09-04-2024 14:59:32 Server is Listning 3000
+[*] 09-04-2024 14:59:33 GET /
+[*] 09-04-2024 14:59:37 POST /api/teacher/login
+[*] 09-04-2024 14:59:37 GET /dashboard
+[*] 09-04-2024 14:59:37 GET /js/dashboard.js

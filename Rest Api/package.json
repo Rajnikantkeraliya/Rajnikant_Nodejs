@@ -1,0 +1,15 @@
+{
+  "name": "RestApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RestApi.js",
+  "scripts": {
+    "start": "npm start RestApi.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  }
+}

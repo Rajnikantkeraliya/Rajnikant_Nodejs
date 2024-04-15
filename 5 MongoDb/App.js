@@ -14,7 +14,7 @@ app.get("/user", (req, res, next) => {
             res.status(200).json({ error: "Faild To Connect Db" })
         }
         else {
-            dbconn.collection("Items").find().toArray()
+            dbconn.collection("teacher").find().toArray()
                 .then((Items) => { res.status(200).json(Items) })
                 .catch((e) => { res.status(200).json({ error: e }) })
         }
@@ -34,7 +34,7 @@ app.post("/Home", (req, res, next) => {
                     (items) => {
                         res.status(200).json(items)
                     }
-                ) 
+                )
                 .catch(
                     (e) => { res.status(200).json({ error: e }) }
                 )

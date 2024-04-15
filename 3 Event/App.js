@@ -33,21 +33,25 @@ libhttp.createServer((req, res) => {
 
 
 
-const Eventmanager = new libEvent.EventEmitter();
+const eventmanager = new libEvent.EventEmitter()
 
-Eventmanager.on("Lunch", function () {
-    console.log("I am Having a Lunch")
-})
-Eventmanager.on("Dinner", function () {
-    console.log("I am Having a Dinner")
-})
+eventmanager.on("lunch", function () {
+    console.log("I am having Lunch")
+});
 
 
+eventmanager.on("dinner", function () {
+    console.log("I am having dinner")
+});
 
 
 setInterval(() => {
-    Eventmanager.emit("Lunch")
-}, 10000);
+    eventmanager.emit("lunch")
+}, 10000)
+
+setTimeout(() => {
+    eventmanager.emit("dinner")
+}, 20000)
 
 
 const readable = libfs.createReadStream('input.txt')

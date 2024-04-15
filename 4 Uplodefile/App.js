@@ -28,6 +28,9 @@ libhttp.createServer((req, res) => {
             if (error) {
                 console.log(error)
             } else {
+
+                // console.log("Fields" + JSON.stringify(Fields))
+                // console.log(files)
                 const File1path = files.File1[0].filepath;
                 const File2path = files.File2[0].filepath;
                 const File3path = files.File3[0].filepath;
