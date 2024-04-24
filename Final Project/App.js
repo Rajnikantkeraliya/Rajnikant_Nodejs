@@ -1,7 +1,26 @@
-const libexpress = require("express")
+require("dotenv").config()
+const servermanager = require('./Server/Server.js')
+const { libutil } = require('./Util/Utils.js')
 
-const app = libexpress()
 
-app.listen(3000, () => {
-    console.log("server is started")
+//prepare servermanager
+servermanager.prepare();
+
+//server is Started
+servermanager.start();
+
+//db Connection
+
+
+
+libutil.getdbconnection(function (dbconnection) {
+
+
+    if (dbconnection == false) {
+        libutil.logger("Database Connection Failed", 3)
+    }
+    else {
+        libutil.logger("Database Successfully Conected", 1)
+    }
+
 })

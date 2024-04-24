@@ -51,8 +51,8 @@ async function updateprice(productId, newPrice) {
 
     try {
         const result = await collection.updateOne(
-            { _id: new ObjectId(productId) },
-            { $set: { price: newPrice } }
+            { _id: new ObjectId("66113ba476eb60b916d44d26") },
+            { $set: { price: 20000 } }
         );
         console.log(`${result.modifiedCount} product(s) updated.`);
     } catch (error) {
@@ -62,7 +62,7 @@ async function updateprice(productId, newPrice) {
         console.log("Connection to MongoDB closed.");
     }
 }
-// updateprice("66113ba476eb60b916d44d26", 20000);
+// updateprice();
 
 
 //Specific Object Delete

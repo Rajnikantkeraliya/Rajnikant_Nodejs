@@ -1,0 +1,53 @@
+doctype html
+html(lang="en")
+  head
+    include Common/Bootstrap.pug
+    title Dashboard
+    link(rel="stylesheet", href="CSS/styles.css")
+
+  body
+    // Navigation bar
+    nav.navbar
+      ul.navbar-nav
+        li.nav-item
+          a.nav-link(href="#") Home
+        li.nav-item
+          a.nav-link(href="#") Dashboard
+        li.nav-item
+          a.nav-link(href="#") Profile
+        li.nav-item
+          a.nav-link(href="#") Settings
+        li.nav-item
+          a.nav-link(href="#") Logout
+
+    // Main content area
+    main.container
+      h1.dashboard-heading Welcome to Your Dashboard
+      .grid-container
+        .grid-item
+          .card
+            .card-icon
+              i.fas.fa-chart-line
+            .card-content
+              h2 Movie 1
+              p This is a sample card.
+        .grid-item
+          .card
+            .card-icon
+              i.fas.fa-users
+            .card-content
+              h2 Movie 2
+              p This is another sample card.
+        .grid-item
+          .card
+            .card-icon
+              i.fas.fa-cogs
+            .card-content
+              h2 Movie 3
+              p This is a third sample card.
+        // Add more grid items as needed
+
+    footer.footer
+      p Copyright © 2024 Your Company Name
+
+    script(src="/Js/Dashboard.js")

@@ -2,23 +2,23 @@ const libHttp = require('http');
 const libfs = require('fs');
 
 
-// const studentdata = [
-//     {
-//         ID: '01',
-//         Name: "Patel Raj",
-//         Age: "26",
-//     },
-//     {
-//         ID: '03',
-//         Name: "Patel Nirav",
-//         Age: "28",
-//     },
-//     {
-//         ID: '04',
-//         Name: "Patel",
-//         Age: "26",
-//     }
-// ];
+const studentdata = [
+    {
+        ID: '01',
+        Name: "Patel Raj",
+        Age: "26",
+    },
+    {
+        ID: '03',
+        Name: "Patel Nirav",
+        Age: "28",
+    },
+    {
+        ID: '04',
+        Name: "Patel",
+        Age: "26",
+    }
+];
 
 libHttp.createServer((req, res) => {
     if (req.url === "/student") {
