@@ -1,0 +1,84 @@
+[+] 18-04-2024 21:38:45  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:38:45  Database Successfully Conected
+ [+] 18-04-2024 21:40:02  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:40:02  Database Successfully Conected
+ [+] 18-04-2024 21:40:30  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:40:30  Database Successfully Conected
+ [*] 18-04-2024 21:40:32  incoming request GET /user
+ [+] 18-04-2024 21:52:10  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:52:10  Database Successfully Conected
+ [+] 18-04-2024 21:52:16  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:52:16  Database Successfully Conected
+ [+] 18-04-2024 21:52:50  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:52:50  Database Successfully Conected
+ [+] 18-04-2024 21:53:08  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:53:08  Database Successfully Conected
+ [+] 18-04-2024 21:53:47  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:53:47  Database Successfully Conected
+ [+] 18-04-2024 21:57:33  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:57:33  Database Successfully Conected
+ [+] 18-04-2024 21:59:19  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 21:59:19  Database Successfully Conected
+ [+] 18-04-2024 22:01:42  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:01:42  Database Successfully Conected
+ [+] 18-04-2024 22:01:58  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:01:58  Database Successfully Conected
+ [+] 18-04-2024 22:02:05  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:02:06  Database Successfully Conected
+ [+] 18-04-2024 22:02:25  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:02:25  Database Successfully Conected
+ [*] 18-04-2024 22:02:33  incoming request GET /
+ [*] 18-04-2024 22:02:39  incoming request GET /movies
+ [*] 18-04-2024 22:02:52  incoming request GET /movies
+ [*] 18-04-2024 22:03:00  incoming request GET /movies/
+ [+] 18-04-2024 22:03:40  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:03:40  Database Successfully Conected
+ [+] 18-04-2024 22:04:30  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:04:30  Database Successfully Conected
+ [*] 18-04-2024 22:04:33  incoming request GET /movies/
+ [*] 18-04-2024 22:04:37  incoming request GET /movies
+ [+] 18-04-2024 22:04:48  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:04:48  Database Successfully Conected
+ [*] 18-04-2024 22:04:53  incoming request GET /movies
+ [+] 18-04-2024 22:05:12  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:05:12  Database Successfully Conected
+ [*] 18-04-2024 22:05:15  incoming request GET /movies
+ [*] 18-04-2024 22:05:17  incoming request GET /movies
+ [*] 18-04-2024 22:05:17  incoming request GET /movies
+ [*] 18-04-2024 22:05:17  incoming request GET /movies
+ [+] 18-04-2024 22:05:32  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:05:32  Database Successfully Conected
+ [+] 18-04-2024 22:05:54  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:05:54  Database Successfully Conected
+ [*] 18-04-2024 22:06:05  incoming request GET /movies
+ [*] 18-04-2024 22:06:06  incoming request GET /favicon.ico
+ [*] 18-04-2024 22:06:13  incoming request GET /
+ [*] 18-04-2024 22:06:19  incoming request GET /movies
+ [*] 18-04-2024 22:06:20  incoming request GET /movies/
+ [+] 18-04-2024 22:07:32  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:07:32  Database Successfully Conected
+ [*] 18-04-2024 22:08:25  incoming request GET /movies
+ [+] 18-04-2024 22:09:03  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:09:03  Database Successfully Conected
+ [*] 18-04-2024 22:09:04  incoming request GET /movies
+ [+] 18-04-2024 22:10:08  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:10:08  Database Successfully Conected
+ [*] 18-04-2024 22:10:11  incoming request GET /movies
+ [+] 18-04-2024 22:11:28  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:11:28  Database Successfully Conected
+ [+] 18-04-2024 22:11:47  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:11:47  Database Successfully Conected
+ [+] 18-04-2024 22:12:02  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:12:02  Database Successfully Conected
+ [+] 18-04-2024 22:14:04  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:14:04  Database Successfully Conected
+ [+] 18-04-2024 22:16:27  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:16:27  Database Successfully Conected
+ [*] 18-04-2024 22:16:35  incoming request POST /movies
+ [+] 18-04-2024 22:21:04  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:21:04  Database Successfully Conected
+ [*] 18-04-2024 22:21:20  incoming request POST /cars
+ [+] 18-04-2024 22:23:36  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:23:36  Database Successfully Conected
+ [+] 18-04-2024 22:24:10  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 18-04-2024 22:24:10  Database Successfully Conected

@@ -1,0 +1,187 @@
+[+] 19-04-2024 11:09:33  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:09:34  Database Successfully Conected
+ [*] 19-04-2024 11:10:07  incoming request GET /Movies
+ [*] 19-04-2024 11:11:42  incoming request GET /Movies/6621fb677fbee15f504f722b
+ [+] 19-04-2024 11:15:04  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:15:04  Database Successfully Conected
+ [+] 19-04-2024 11:15:16  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:15:16  Database Successfully Conected
+ [+] 19-04-2024 11:24:25  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:24:25  Database Successfully Conected
+ [*] 19-04-2024 11:24:30  incoming request GET /Movies/6621fb677fbee15f504f722b
+ [*] 19-04-2024 11:24:33  incoming request GET /Movies/
+ [+] 19-04-2024 11:26:15  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:26:15  Database Successfully Conected
+ [+] 19-04-2024 11:29:38  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:29:38  Database Successfully Conected
+ [+] 19-04-2024 11:30:25  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:30:25  Database Successfully Conected
+ [+] 19-04-2024 11:31:37  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:31:37  Database Successfully Conected
+ [*] 19-04-2024 11:31:49  incoming request GET /Movies/
+ [+] 19-04-2024 11:32:56  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:32:56  Database Successfully Conected
+ [*] 19-04-2024 11:33:02  incoming request GET /Movies/
+ [+] 19-04-2024 11:33:21  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:33:21  Database Successfully Conected
+ [+] 19-04-2024 11:33:31  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:33:31  Database Successfully Conected
+ [*] 19-04-2024 11:33:37  incoming request GET /Movies/
+ [+] 19-04-2024 11:34:04  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:34:04  Database Successfully Conected
+ [*] 19-04-2024 11:34:12  incoming request GET /Movies/
+ [+] 19-04-2024 11:34:22  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:34:22  Database Successfully Conected
+ [+] 19-04-2024 11:34:22  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:34:22  Database Successfully Conected
+ [*] 19-04-2024 11:34:27  incoming request GET /Movies/
+ [+] 19-04-2024 11:40:36  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:40:36  Database Successfully Conected
+ [+] 19-04-2024 11:41:01  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:41:01  Database Successfully Conected
+ [+] 19-04-2024 11:41:13  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:41:13  Database Successfully Conected
+ [+] 19-04-2024 11:41:19  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:41:19  Database Successfully Conected
+ [+] 19-04-2024 11:41:41  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:41:41  Database Successfully Conected
+ [+] 19-04-2024 11:41:58  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:41:58  Database Successfully Conected
+ [+] 19-04-2024 11:42:04  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:42:04  Database Successfully Conected
+ [+] 19-04-2024 11:42:11  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:42:11  Database Successfully Conected
+ [+] 19-04-2024 11:42:19  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:42:19  Database Successfully Conected
+ [+] 19-04-2024 11:43:24  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:43:24  Database Successfully Conected
+ [+] 19-04-2024 11:43:42  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:43:42  Database Successfully Conected
+ [+] 19-04-2024 11:45:24  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:45:24  Database Successfully Conected
+ [*] 19-04-2024 11:45:28  incoming request GET /Movies/
+ [+] 19-04-2024 11:45:36  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:45:36  Database Successfully Conected
+ [*] 19-04-2024 11:45:38  incoming request GET /Movies/
+ [+] 19-04-2024 11:47:05  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:47:05  Database Successfully Conected
+ [+] 19-04-2024 11:47:11  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:47:11  Database Successfully Conected
+ [-] 19-04-2024 11:47:32  ReferenceError: mongoClient is not defined
+ [+] 19-04-2024 11:47:32  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:47:38  ReferenceError: mongoClient is not defined
+ [+] 19-04-2024 11:47:38  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:47:48  ReferenceError: mongoClient is not defined
+ [+] 19-04-2024 11:47:48  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:47:55  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:47:55  Database Successfully Conected
+ [+] 19-04-2024 11:48:34  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:48:34  TypeError: Assignment to constant variable.
+ [+] 19-04-2024 11:49:09  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:49:09  TypeError: Assignment to constant variable.
+ [+] 19-04-2024 11:49:15  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:49:16  TypeError: Assignment to constant variable.
+ [+] 19-04-2024 11:49:27  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:49:27  TypeError: Assignment to constant variable.
+ [+] 19-04-2024 11:50:08  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:50:08  TypeError: Assignment to constant variable.
+ [+] 19-04-2024 11:51:07  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:51:07  TypeError: Assignment to constant variable.
+ [+] 19-04-2024 11:51:50  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:51:50  TypeError: Assignment to constant variable.
+ [-] 19-04-2024 11:52:05  TypeError: MongoServerConnection.connect(...).db is not a function
+ [+] 19-04-2024 11:52:05  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:52:53  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:52:53  TypeError: Assignment to constant variable.
+ [+] 19-04-2024 11:52:58  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:52:58  TypeError: Assignment to constant variable.
+ [+] 19-04-2024 11:56:35  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [-] 19-04-2024 11:56:35  TypeError: Assignment to constant variable.
+ [+] 19-04-2024 11:56:48  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:56:48  Database Successfully Conected
+ [+] 19-04-2024 11:57:39  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:57:47  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:57:47  Database Successfully Conected
+ [+] 19-04-2024 11:58:01  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:58:01  Database Successfully Conected
+ [+] 19-04-2024 11:58:05  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:58:05  Database Successfully Conected
+ [+] 19-04-2024 11:58:46  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:58:46  Database Successfully Conected
+ [*] 19-04-2024 11:58:53  incoming request GET /Movies/
+ [*] 19-04-2024 11:59:11  incoming request GET /Movies/
+ [*] 19-04-2024 11:59:14  incoming request GET /Movies/
+ [+] 19-04-2024 11:59:49  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:59:49  Database Successfully Conected
+ [*] 19-04-2024 11:59:51  incoming request GET /Movies/
+ [+] 19-04-2024 11:59:54  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 11:59:54  Database Successfully Conected
+ [+] 19-04-2024 12:01:59  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:01:59  Database Successfully Conected
+ [+] 19-04-2024 12:03:58  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:03:58  Database Successfully Conected
+ [+] 19-04-2024 12:04:25  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:04:25  Database Successfully Conected
+ [+] 19-04-2024 12:05:09  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:05:09  Database Successfully Conected
+ [+] 19-04-2024 12:06:52  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [*] 19-04-2024 12:06:52  MongoDb 
+ [+] 19-04-2024 12:06:52  Database Successfully Conected
+ [+] 19-04-2024 12:07:08  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [*] 19-04-2024 12:07:08  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:07:08  Database Successfully Conected
+ [+] 19-04-2024 12:07:13  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [*] 19-04-2024 12:07:13  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:07:13  Database Successfully Conected
+ [+] 19-04-2024 12:07:33  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:07:33  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:07:33  Database Successfully Conected
+ [+] 19-04-2024 12:07:33  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:07:46  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:07:46  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:07:46  Database Successfully Conected
+ [+] 19-04-2024 12:07:46  Mongo DB disconnected Successfully.....
+ [+] 19-04-2024 12:08:59  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:08:59  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:08:59  Database Successfully Conected
+ [+] 19-04-2024 12:08:59  Data Was Served..
+ [+] 19-04-2024 12:08:59  Mongo DB disconnected Successfully.....
+ [+] 19-04-2024 12:14:09  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:14:09  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:14:09  Database Successfully Conected
+ [+] 19-04-2024 12:14:09  Data Was Served..
+ [+] 19-04-2024 12:14:09  Mongo DB disconnected Successfully.....
+ [+] 19-04-2024 12:15:16  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:15:16  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:15:16  Database Successfully Conected
+ [+] 19-04-2024 12:15:16  Data Was Served..
+ [+] 19-04-2024 12:15:16  Mongo DB disconnected Successfully.....
+ [+] 19-04-2024 12:15:58  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:15:58  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:15:58  Database Successfully Conected
+ [+] 19-04-2024 12:15:58  Data Was Served..
+ [+] 19-04-2024 12:15:58  Mongo DB disconnected Successfully.....
+ [+] 19-04-2024 12:16:06  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:16:06  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:16:06  Database Successfully Conected
+ [+] 19-04-2024 12:16:06  Data Was Served..
+ [+] 19-04-2024 12:16:06  Mongo DB disconnected Successfully.....
+ [+] 19-04-2024 12:16:11  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:16:11  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:16:11  Database Successfully Conected
+ [+] 19-04-2024 12:16:11  Data Was Served..
+ [+] 19-04-2024 12:16:11  Mongo DB disconnected Successfully.....
+ [*] 19-04-2024 12:16:20  incoming request GET /Movies/6621fb677fbee15f504f722b
+ [+] 19-04-2024 12:16:20  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:16:20  Data Was Served..
+ [+] 19-04-2024 12:16:20  Mongo DB disconnected Successfully.....
+ [+] 19-04-2024 12:31:35  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:31:35  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:31:35  Database Successfully Conected
+ [+] 19-04-2024 12:31:35  Data Was Served..
+ [+] 19-04-2024 12:31:35  Mongo DB disconnected Successfully.....
+ [+] 19-04-2024 12:49:34  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 19-04-2024 12:49:34  Mongo DB Connected Successfully.....
+ [+] 19-04-2024 12:49:34  Database Successfully Conected
+ [+] 19-04-2024 12:49:34  Data Was Served..
+ [+] 19-04-2024 12:49:34  Mongo DB disconnected Successfully.....

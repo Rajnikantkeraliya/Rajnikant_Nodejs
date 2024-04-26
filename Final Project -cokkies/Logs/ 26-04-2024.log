@@ -1,0 +1,299 @@
+[+] 26-04-2024 08:24:16  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:24:16  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:24:16  Database Successfully Conected
+ [+] 26-04-2024 08:24:16  Data Was Served..
+ [+] 26-04-2024 08:24:16  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:24:24  incoming request GET /
+ [*] 26-04-2024 08:24:25  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:24:51  incoming request POST /user/token
+ [*] 26-04-2024 08:24:55  incoming request GET /dashboard
+ [*] 26-04-2024 08:24:55  incoming request GET /movies/
+ [*] 26-04-2024 08:24:55  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:24:55  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:24:55  Data Was Served..
+ [+] 26-04-2024 08:24:55  Mongo DB disconnected Successfully.....
+ [+] 26-04-2024 08:25:59  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [*] 26-04-2024 08:25:59  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:25:59  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:25:59  Database Successfully Conected
+ [+] 26-04-2024 08:25:59  Data Was Served..
+ [+] 26-04-2024 08:25:59  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:00  incoming request POST /user/token
+ [*] 26-04-2024 08:26:02  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:02  incoming request GET /movies/
+ [*] 26-04-2024 08:26:02  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:26:02  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:26:02  Data Was Served..
+ [+] 26-04-2024 08:26:02  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:03  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:04  incoming request GET /movies/
+ [*] 26-04-2024 08:26:04  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:26:04  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:26:04  Data Was Served..
+ [+] 26-04-2024 08:26:04  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:04  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:04  incoming request GET /movies/
+ [+] 26-04-2024 08:26:04  Mongo DB Connected Successfully.....
+ [*] 26-04-2024 08:26:04  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:26:04  Data Was Served..
+ [+] 26-04-2024 08:26:04  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:04  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:04  incoming request GET /movies/
+ [+] 26-04-2024 08:26:04  Mongo DB Connected Successfully.....
+ [*] 26-04-2024 08:26:04  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:26:04  Data Was Served..
+ [+] 26-04-2024 08:26:04  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:04  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:04  incoming request GET /movies/
+ [+] 26-04-2024 08:26:04  Mongo DB Connected Successfully.....
+ [*] 26-04-2024 08:26:04  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:26:04  Data Was Served..
+ [+] 26-04-2024 08:26:04  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:04  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:04  incoming request GET /movies/
+ [*] 26-04-2024 08:26:04  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:26:04  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:26:04  Data Was Served..
+ [+] 26-04-2024 08:26:04  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:04  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:04  incoming request GET /movies/
+ [*] 26-04-2024 08:26:04  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:26:04  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:26:04  Data Was Served..
+ [+] 26-04-2024 08:26:04  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:06  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:26:11  incoming request GET /
+ [*] 26-04-2024 08:26:12  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:26:13  incoming request POST /user/token
+ [*] 26-04-2024 08:26:13  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:13  incoming request GET /movies/
+ [+] 26-04-2024 08:26:13  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:26:13  Data Was Served..
+ [+] 26-04-2024 08:26:13  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:13  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:26:36  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:26:36  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:26:36  Database Successfully Conected
+ [+] 26-04-2024 08:26:36  Data Was Served..
+ [+] 26-04-2024 08:26:36  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:26:36  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:36  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:26:38  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:26:40  incoming request POST /user/token
+ [*] 26-04-2024 08:26:40  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:40  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:26:42  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:26:43  incoming request POST /user/token
+ [*] 26-04-2024 08:26:43  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:43  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:26:46  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:46  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:26:47  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:26:48  incoming request POST /user/token
+ [*] 26-04-2024 08:26:48  incoming request GET /dashboard
+ [*] 26-04-2024 08:26:49  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:27:12  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:27:12  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:27:12  Database Successfully Conected
+ [+] 26-04-2024 08:27:12  Data Was Served..
+ [+] 26-04-2024 08:27:12  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:27:12  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:13  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:13  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:13  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:14  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:16  incoming request POST /user/token
+ [*] 26-04-2024 08:27:16  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:16  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:18  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:19  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:19  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:19  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:19  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:19  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:19  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:19  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:19  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:20  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:20  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:20  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:20  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:26  incoming request GET /
+ [*] 26-04-2024 08:27:26  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:27  incoming request POST /user/token
+ [*] 26-04-2024 08:27:27  incoming request GET /
+ [*] 26-04-2024 08:27:27  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:27  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:31  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:27:38  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:27:38  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:27:38  Database Successfully Conected
+ [+] 26-04-2024 08:27:38  Data Was Served..
+ [+] 26-04-2024 08:27:38  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:27:39  incoming request GET /
+ [*] 26-04-2024 08:27:39  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:40  incoming request POST /user/token
+ [*] 26-04-2024 08:27:40  incoming request GET /dashboard
+ [*] 26-04-2024 08:27:41  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:27:42  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:44:29  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:44:29  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:44:29  Database Successfully Conected
+ [+] 26-04-2024 08:44:29  Data Was Served..
+ [+] 26-04-2024 08:44:29  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:44:40  incoming request GET /
+ [*] 26-04-2024 08:44:41  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:44:45  incoming request POST /user/token
+ [*] 26-04-2024 08:44:45  incoming request GET /dashboard
+ [*] 26-04-2024 08:44:45  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:45:01  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:46:09  incoming request POST /user/token
+ [*] 26-04-2024 08:46:09  incoming request GET /dashboard
+ [*] 26-04-2024 08:46:09  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:46:11  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:47:11  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:47:11  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:47:11  Database Successfully Conected
+ [+] 26-04-2024 08:47:11  Data Was Served..
+ [+] 26-04-2024 08:47:11  Mongo DB disconnected Successfully.....
+ [+] 26-04-2024 08:48:01  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:48:01  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:48:01  Database Successfully Conected
+ [+] 26-04-2024 08:48:01  Data Was Served..
+ [+] 26-04-2024 08:48:01  Mongo DB disconnected Successfully.....
+ [+] 26-04-2024 08:48:02  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:48:02  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:48:02  Database Successfully Conected
+ [+] 26-04-2024 08:48:02  Data Was Served..
+ [+] 26-04-2024 08:48:02  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:48:06  incoming request POST /user/token
+ [*] 26-04-2024 08:48:06  incoming request GET /dashboard
+ [*] 26-04-2024 08:48:06  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:48:47  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:48:51  incoming request GET /login
+ [*] 26-04-2024 08:48:51  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:48:54  incoming request POST /login
+ [+] 26-04-2024 08:49:47  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:49:47  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:49:47  Database Successfully Conected
+ [+] 26-04-2024 08:49:47  Data Was Served..
+ [+] 26-04-2024 08:49:47  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:50:03  incoming request POST /login
+ [+] 26-04-2024 08:51:51  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:51:51  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:51:51  Database Successfully Conected
+ [+] 26-04-2024 08:51:51  Data Was Served..
+ [+] 26-04-2024 08:51:51  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:51:54  incoming request GET /login
+ [*] 26-04-2024 08:51:54  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:51:55  incoming request POST /
+ [*] 26-04-2024 08:51:55  incoming request GET /dashboard
+ [*] 26-04-2024 08:51:55  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:52:04  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:52:04  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:52:04  Database Successfully Conected
+ [+] 26-04-2024 08:52:04  Data Was Served..
+ [+] 26-04-2024 08:52:04  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:52:04  incoming request GET /dashboard
+ [*] 26-04-2024 08:52:05  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:52:06  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:52:07  incoming request POST /
+ [*] 26-04-2024 08:52:07  incoming request GET /dashboard
+ [*] 26-04-2024 08:52:07  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:52:21  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:52:21  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:52:21  Database Successfully Conected
+ [+] 26-04-2024 08:52:21  Data Was Served..
+ [+] 26-04-2024 08:52:21  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:52:21  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:52:22  incoming request GET /login
+ [*] 26-04-2024 08:52:22  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:52:23  incoming request POST /login
+ [+] 26-04-2024 08:52:43  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:52:43  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:52:43  Database Successfully Conected
+ [+] 26-04-2024 08:52:43  Data Was Served..
+ [+] 26-04-2024 08:52:43  Mongo DB disconnected Successfully.....
+ [+] 26-04-2024 08:53:33  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:53:33  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:53:33  Database Successfully Conected
+ [+] 26-04-2024 08:53:33  Data Was Served..
+ [+] 26-04-2024 08:53:33  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:53:36  incoming request GET /login
+ [*] 26-04-2024 08:53:36  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:53:37  incoming request POST /login
+ [+] 26-04-2024 08:54:17  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:54:17  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:54:17  Database Successfully Conected
+ [+] 26-04-2024 08:54:17  Data Was Served..
+ [+] 26-04-2024 08:54:17  Mongo DB disconnected Successfully.....
+ [+] 26-04-2024 08:54:31  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:54:31  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:54:31  Database Successfully Conected
+ [+] 26-04-2024 08:54:31  Data Was Served..
+ [+] 26-04-2024 08:54:31  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:54:32  incoming request POST /login
+ [*] 26-04-2024 08:54:35  incoming request GET /login
+ [*] 26-04-2024 08:54:35  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:54:36  incoming request POST /login
+ [*] 26-04-2024 08:54:58  incoming request POST /login
+ [+] 26-04-2024 08:55:33  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:55:33  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:55:33  Database Successfully Conected
+ [+] 26-04-2024 08:55:33  Data Was Served..
+ [+] 26-04-2024 08:55:33  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:55:33  incoming request GET /login
+ [*] 26-04-2024 08:55:33  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:55:33  incoming request GET /login
+ [*] 26-04-2024 08:55:34  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:55:34  incoming request GET /login
+ [*] 26-04-2024 08:55:34  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:55:34  incoming request GET /login
+ [*] 26-04-2024 08:55:34  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:55:42  incoming request POST /login
+ [+] 26-04-2024 08:56:42  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:56:42  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:56:42  Database Successfully Conected
+ [+] 26-04-2024 08:56:42  Data Was Served..
+ [+] 26-04-2024 08:56:42  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:56:50  incoming request GET /
+ [*] 26-04-2024 08:56:51  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:56:56  incoming request GET /login
+ [*] 26-04-2024 08:56:56  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:57:17  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:57:17  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:57:17  Database Successfully Conected
+ [+] 26-04-2024 08:57:17  Data Was Served..
+ [+] 26-04-2024 08:57:17  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:57:26  incoming request POST /user/token
+ [*] 26-04-2024 08:57:26  incoming request GET /dashboard
+ [*] 26-04-2024 08:57:26  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:57:27  incoming request GET /favicon.ico
+ [+] 26-04-2024 08:58:01  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:58:01  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:58:01  Database Successfully Conected
+ [+] 26-04-2024 08:58:01  Data Was Served..
+ [+] 26-04-2024 08:58:01  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:58:02  incoming request GET /login
+ [*] 26-04-2024 08:58:03  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:58:04  incoming request POST /login
+ [*] 26-04-2024 08:58:05  incoming request POST /login
+ [*] 26-04-2024 08:58:05  incoming request POST /login
+ [*] 26-04-2024 08:58:05  incoming request POST /login
+ [+] 26-04-2024 08:59:03  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:59:03  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:59:03  Database Successfully Conected
+ [+] 26-04-2024 08:59:03  Data Was Served..
+ [+] 26-04-2024 08:59:03  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:59:04  incoming request GET /login
+ [*] 26-04-2024 08:59:05  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:59:06  incoming request POST /login
+ [+] 26-04-2024 08:59:35  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 26-04-2024 08:59:35  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 08:59:35  Database Successfully Conected
+ [+] 26-04-2024 08:59:35  Data Was Served..
+ [+] 26-04-2024 08:59:35  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 08:59:37  incoming request GET /login
+ [*] 26-04-2024 08:59:37  incoming request GET /favicon.ico
+ [*] 26-04-2024 08:59:38  incoming request POST /login
+ [*] 26-04-2024 08:59:49  incoming request POST /login
