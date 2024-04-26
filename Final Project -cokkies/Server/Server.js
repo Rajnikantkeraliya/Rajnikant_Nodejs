@@ -1,9 +1,9 @@
 const libexpress = require('express');
 const { libutil } = require('../Util/Utils.js');
 const Requestlogger = require('../middleware/Requestlogger');
-const routerMovies = require('../Router/Api/Movies.js')
-const routerUi = require('../Router/Ui/Ui.js')
-const routeruser = require('../Router/Api/User.js')
+const routerUi = require("../Router/Ui/Routerui.js")
+const bodyparsor = require("body-parser")
+
 
 const servermanager = {}
 
@@ -17,18 +17,15 @@ servermanager.prepare = () => {
     servermanager.server.set('view engine', 'pug');
 
     //Post Body Parser
-    servermanager.server.use(libexpress.json())
+    servermanager.server.use(bodyparsor.json())
+    servermanager.server.use(bodyparsor.urlencoded({ extended: true }))
 
     //create middleWare
     servermanager.server.use(Requestlogger)
 
-    //Ui router
-    servermanager.server.use('/', routerUi)
+    servermanager.server.use(routerUi)
 
-    servermanager.server.use("/user", routeruser)
 
-    //Movies api
-    servermanager.server.use('/movies', routerMovies)
 
     servermanager.server.use((req, res) => {
         res.status(200).json({ error: "No Such Api" })

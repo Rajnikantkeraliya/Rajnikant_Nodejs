@@ -1,23 +1,12 @@
-//- views/movies.pug
-
 doctype html
 html(lang="en")
-  head
-    include Common/Bootstrap.pug
-    title Movie List
+    head
 
+        include Common/Bootstrap.pug
+        title Document
     body
-        .card.w-50.m-5.p-5
-            h1 Login Form
-            .card-body
-                form
-                    img(src="Image/feedback.png", "width"="120px").mb-4
-                    .form-floating.mb-4
-                        input.form-control(type="email", id="ETX_EMAIL", placeholder="name@example.com")
-                        label(for="ETX_EMAIL") Email address
-
-                    .form-floating.mb-4
-                        input.form-control(type="password", id="ETX_PASSWORD", placeholder="Password")
-                        label(for="ETX_PASSWORD") Password
-                    button(id="BTN_LOGIN").btn.btn-primary login
-    script(src="/Js/Index.js")
+        .container
+            nav.navbar.navbar-light.bg-light
+            form.form-inline
+                a.btn.btn-primary.m-3(href="/login" role="button") Login
+                a.btn.btn-danger.m-3(href="/Signup" role="button") SignUp

@@ -1,0 +1,35 @@
+doctype html
+html(lang="en")
+  head
+    include Common/Bootstrap.pug
+    title Movie List
+
+  body
+    .card.w-50.m-5.p-5
+      h1 Login Form
+      .card-body
+        form(id="loginForm", method="POST")
+          .form-floating.mb-4
+            input#emailInput.form-control(type="email", placeholder="name@example.com")
+            label(for="emailInput") Email address
+
+          .form-floating.mb-4
+            input#passwordInput.form-control(type="password", placeholder="Password")
+            label(for="passwordInput") Password
+
+          button#loginButton.btn.btn-primary(type="button") Login
+          button#signupButton.btn.btn-danger.m-3(type="button") Signup
+
+script.
+  document.getElementById("loginForm").addEventListener("submit", function(event) {
+    event.preventDefault(); // Prevent the default form submission
+    // Your custom code here
+  });
+
+  document.getElementById("loginButton").addEventListener("click", function() {
+    // Perform any task you want when the login button is clicked
+  });
+
+  document.getElementById("signupButton").addEventListener("click", function() {
+    // Perform any task you want when the signup button is clicked
+  });

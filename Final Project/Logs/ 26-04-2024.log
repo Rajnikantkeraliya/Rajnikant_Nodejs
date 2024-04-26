@@ -1,0 +1,16 @@
+[+] 26-04-2024 09:33:24  Deleted old log file:  18-04-2024.log
+ [+] 26-04-2024 09:33:24  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 09:33:24  Database Successfully Conected
+ [+] 26-04-2024 09:33:24  Data Was Served..
+ [+] 26-04-2024 09:33:24  Mongo DB disconnected Successfully.....
+ [*] 26-04-2024 09:33:56  incoming request GET /login
+ [*] 26-04-2024 09:33:56  incoming request GET /favicon.ico
+ [*] 26-04-2024 09:34:00  incoming request GET /
+ [*] 26-04-2024 09:34:02  incoming request GET /favicon.ico
+ [*] 26-04-2024 09:34:03  incoming request POST /user/token
+ [*] 26-04-2024 09:34:07  incoming request GET /dashboard
+ [*] 26-04-2024 09:34:07  incoming request GET /movies/
+ [*] 26-04-2024 09:34:07  incoming request GET /favicon.ico
+ [+] 26-04-2024 09:34:07  Mongo DB Connected Successfully.....
+ [+] 26-04-2024 09:34:07  Data Was Served..
+ [+] 26-04-2024 09:34:07  Mongo DB disconnected Successfully.....

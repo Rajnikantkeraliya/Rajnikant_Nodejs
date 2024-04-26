@@ -92,7 +92,7 @@ util.deleteOldLogFiles = () => {
     });
 };
 
-// util.deleteOldLogFiles();
+util.deleteOldLogFiles();
 setInterval(util.deleteOldLogFiles, 24 * 60 * 60 * 1000);
 
 
