@@ -1,64 +1,52 @@
 doctype html
 html(lang="en")
   head
-    meta(charset="UTF-8")
-    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    include include/Bootstrap.pug
     title Dashboard
-    style.
-      body {
-          font-family: Arial, sans-serif;
-          margin: 0;
-          padding: 0;
-      }
-      .header {
-          background-color: #333;
-          color: #fff;
-          padding: 20px;
-          text-align: center;
-      }
-      .container {
-          display: flex;
-          flex-wrap: wrap;
-          justify-content: space-around;
-          padding: 20px;
-      }
-      .card {
-          width: 300px;
-          margin-bottom: 20px;
-          border: 1px solid #ccc;
-          border-radius: 5px;
-          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-          transition: transform 0.3s ease;
-      }
-      .card:hover {
-          transform: translateY(-5px);
-      }
-      .card-header {
-          background-color: #f0f0f0;
-          padding: 10px;
-          border-bottom: 1px solid #ccc;
-      }
-      .card-body {
-          padding: 20px;
-      }
-      .card-title {
-          margin-top: 0;
-      }
-      .card-content {
-          color: #333;
-      }
+    link(rel="stylesheet", href="CSS/styles.css")
   body
-    .header
-      h1 Dashboard
-    .container
-      .card
-        .card-header
-          h2.card-title Widget 1
-        .card-body
-          p.card-content Content for widget 1 goes here...
-      .card
-        .card-header
-          h2.card-title Widget 2
-        .card-body
-          p.card-content Content for widget 2 goes here...
+    // Navigation bar
+    nav.navbar
+      ul.navbar-nav
+        li.nav-item
+          a.nav-link(href="#") Home
+        li.nav-item
+          a.nav-link(href="#") Dashboard
+        li.nav-item
+          a.nav-link(href="#") Profile
+        li.nav-item
+          a.nav-link(href="#") Settings
+        li.nav-item
+          a.nav-link(href="#") Logout
+
+    // Main content area
+    main.container
+      h1.dashboard-heading Welcome to Your Dashboard
+      .grid-container
+        .grid-item
+          .card
+            .card-icon
+              i.fas.fa-chart-line
+            .card-content
+              h2 Movie 1
+              p This is a sample card.
+        .grid-item
+          .card
+            .card-icon
+              i.fas.fa-users
+            .card-content
+              h2 Movie 2
+              p This is another sample card.
+        .grid-item
+          .card
+            .card-icon
+              i.fas.fa-cogs
+            .card-content
+              h2 Movie 3
+              p This is a third sample card.
+        // Add more grid items as needed
+
+    // Footer
+    footer.footer
+      p Copyright © 2024 Your Company Name
     script(src="js/dashboard.js")

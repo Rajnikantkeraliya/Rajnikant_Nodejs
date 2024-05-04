@@ -6,19 +6,34 @@ html(lang="en")
     link(rel="stylesheet", href="CSS/styles.css")
 
   body
-    // Navigation bar
-    nav.navbar
-      ul.navbar-nav
-        li.nav-item
-          a.nav-link(href="#") Home
-        li.nav-item
-          a.nav-link(href="#") Dashboard
-        li.nav-item
-          a.nav-link(href="#") Profile
-        li.nav-item
-          a.nav-link(href="#") Settings
-        li.nav-item
-          a.nav-link(href="#") Logout
+    nav.navbar.navbar-expand-lg.bg-body-tertiary.container-fluid
+      a.navbar-brand(href='#') Navbar
+      button.navbar-toggler(type='button', data-bs-toggle='collapse', data-bs-target='#navbarSupportedContent', aria-controls='navbarSupportedContent', aria-expanded='false', aria-label='Toggle navigation')
+        span.navbar-toggler-icon
+      .collapse.navbar-collapse#navbarSupportedContent
+        ul.navbar-nav.me-auto.mb-2.mb-lg-0
+          li.nav-item
+            a.nav-link.active(aria-current='page', href='#') Home
+          li.nav-item
+            a.nav-link(href='#') Link
+          li.nav-item.dropdown
+            a.nav-link.dropdown-toggle(href='#', role='button', data-bs-toggle='dropdown', aria-expanded='false') Dropdown
+            ul.dropdown-menu
+              li
+                a.dropdown-item(href='#') Action
+              li
+                a.dropdown-item(href='#') Another action
+              li
+                hr.dropdown-divider
+              li
+                a.dropdown-item(href='#') Something else here
+              li.nav-item
+                a.nav-link.disabled(aria-disabled='true') Disabled
+        form.d-flex(role='search' action="POST")
+        form.d-flex(role='search' action="POST")
+          input.form-control.me-2(type='search', placeholder='Search', aria-label='Search')
+          button.btn.btn-outline-success.m-2(type='submit') Search
+
 
     // Main content area
     main.container
@@ -29,7 +44,7 @@ html(lang="en")
             .card-icon
               i.fas.fa-chart-line
             .card-content
-              h2 Movie 1
+              h2 Movie #{cart}
               p This is a sample card.
         .grid-item
           .card
@@ -45,9 +60,12 @@ html(lang="en")
             .card-content
               h2 Movie 3
               p This is a third sample card.
-        // Add more grid items as needed
 
-    footer.footer
-      p Copyright © 2024 Your Company Name
+      form.mt-5(method="POST")
 
-    script(src="/Js/Dashboard.js")
+        button.btn.btn-outline-success.m-2(name = "add_to_cart") Add
+        button.btn.btn-outline-success.m-2(name = "Logout") Logout
+
+    //- footer.footer
+    //-   p Copyright © 2024 Your Company Name
+  script(src="/Js/Dashboard.js")

@@ -6,30 +6,19 @@ html(lang="en")
 
   body
     .card.w-50.m-5.p-5
-      h1 Login Form
+      h1.mb-3 Login Form
       .card-body
-        form(id="loginForm", method="POST")
+        form(method="POST")
+          img.mb-5(src="Image/feedback.png", alt="",width="135px")
           .form-floating.mb-4
-            input#emailInput.form-control(type="email", placeholder="name@example.com")
+            input#emailInput.form-control(type="email", name="email", placeholder="name@example.com")
             label(for="emailInput") Email address
 
           .form-floating.mb-4
-            input#passwordInput.form-control(type="password", placeholder="Password")
+            input#passwordInput.form-control(type="password", name="password" placeholder="Password")
             label(for="passwordInput") Password
 
-          button#loginButton.btn.btn-primary(type="button") Login
-          button#signupButton.btn.btn-danger.m-3(type="button") Signup
+          p #{error}
+          button#loginButton.btn.btn-primary Login
+          button#signupButton.btn.btn-danger.m-3 Signup
 
-script.
-  document.getElementById("loginForm").addEventListener("submit", function(event) {
-    event.preventDefault(); // Prevent the default form submission
-    // Your custom code here
-  });
-
-  document.getElementById("loginButton").addEventListener("click", function() {
-    // Perform any task you want when the login button is clicked
-  });
-
-  document.getElementById("signupButton").addEventListener("click", function() {
-    // Perform any task you want when the signup button is clicked
-  });

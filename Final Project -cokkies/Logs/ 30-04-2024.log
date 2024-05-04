@@ -1,0 +1,1853 @@
+[+] 30-04-2024 08:21:03  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:21:03  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:21:03  Database Successfully Conected
+ [+] 30-04-2024 08:21:03  Data Was Served..
+ [+] 30-04-2024 08:21:03  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 08:21:11  incoming request GET /
+ [*] 30-04-2024 08:21:14  incoming request GET /favicon.ico
+ [*] 30-04-2024 08:21:18  incoming request GET /login
+ [*] 30-04-2024 08:21:39  incoming request GET /login
+ [*] 30-04-2024 08:21:40  incoming request POST /login
+ [*] 30-04-2024 08:21:40  incoming request GET /Dashboard
+ [*] 30-04-2024 08:21:41  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 08:21:46  incoming request POST /login
+ [*] 30-04-2024 08:21:47  incoming request POST /login
+ [*] 30-04-2024 08:21:47  incoming request GET /Dashboard
+ [*] 30-04-2024 08:21:48  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 08:21:54  incoming request POST /login
+ [*] 30-04-2024 08:23:13  incoming request POST /login
+ [*] 30-04-2024 08:23:15  incoming request POST /login
+ [*] 30-04-2024 08:23:15  incoming request GET /Dashboard
+ [*] 30-04-2024 08:23:15  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 08:23:22  incoming request POST /login
+ [*] 30-04-2024 08:23:23  incoming request POST /login
+ [*] 30-04-2024 08:23:23  incoming request GET /Dashboard
+ [*] 30-04-2024 08:23:24  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 08:23:29  incoming request POST /login
+ [+] 30-04-2024 08:24:31  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:24:31  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:24:31  Database Successfully Conected
+ [+] 30-04-2024 08:24:31  Data Was Served..
+ [+] 30-04-2024 08:24:31  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 08:24:44  incoming request POST /login
+ [*] 30-04-2024 08:24:47  incoming request POST /login
+ [*] 30-04-2024 08:24:47  incoming request GET /Dashboard
+ [*] 30-04-2024 08:24:47  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 08:24:50  incoming request POST /login
+ [*] 30-04-2024 08:24:50  incoming request GET /Dashboard
+ [*] 30-04-2024 08:24:50  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 08:25:00  incoming request POST /login
+ [*] 30-04-2024 08:25:09  incoming request GET /
+ [*] 30-04-2024 08:25:13  incoming request GET /login
+ [*] 30-04-2024 08:25:17  incoming request POST /login
+ [*] 30-04-2024 08:25:17  incoming request GET /Dashboard
+ [*] 30-04-2024 08:25:18  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 08:25:25  incoming request POST /login
+ [*] 30-04-2024 08:25:37  incoming request POST /login
+ [*] 30-04-2024 08:25:45  incoming request GET /
+ [*] 30-04-2024 08:25:47  incoming request GET /login
+ [*] 30-04-2024 08:25:50  incoming request POST /login
+ [*] 30-04-2024 08:25:50  incoming request GET /Dashboard
+ [*] 30-04-2024 08:25:50  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 08:25:54  incoming request POST /login
+ [+] 30-04-2024 08:27:28  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:27:28  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:27:28  Database Successfully Conected
+ [+] 30-04-2024 08:27:28  Data Was Served..
+ [+] 30-04-2024 08:27:28  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 08:34:41  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:34:41  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:34:41  Database Successfully Conected
+ [+] 30-04-2024 08:34:41  Data Was Served..
+ [+] 30-04-2024 08:34:41  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 08:34:45  incoming request POST /login
+ [*] 30-04-2024 08:34:51  incoming request POST /login
+ [+] 30-04-2024 08:35:07  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:35:07  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:35:07  Database Successfully Conected
+ [+] 30-04-2024 08:35:07  Data Was Served..
+ [+] 30-04-2024 08:35:07  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 08:35:13  incoming request POST /login
+ [*] 30-04-2024 08:35:18  incoming request POST /login
+ [+] 30-04-2024 08:35:37  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:35:37  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:35:37  Database Successfully Conected
+ [+] 30-04-2024 08:35:37  Data Was Served..
+ [+] 30-04-2024 08:35:37  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 08:35:38  incoming request POST /login
+ [*] 30-04-2024 08:35:38  incoming request GET /Dashboard
+ [*] 30-04-2024 08:35:39  incoming request GET /Js/Dashboard.js
+ [+] 30-04-2024 08:39:45  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:39:45  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:39:45  Database Successfully Conected
+ [+] 30-04-2024 08:39:45  Data Was Served..
+ [+] 30-04-2024 08:39:45  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 08:40:19  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:40:19  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:40:19  Database Successfully Conected
+ [+] 30-04-2024 08:40:19  Data Was Served..
+ [+] 30-04-2024 08:40:19  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 08:40:20  incoming request GET /login
+ [*] 30-04-2024 08:40:24  incoming request POST /login
+ [*] 30-04-2024 08:40:24  incoming request GET /Dashboard
+ [*] 30-04-2024 08:40:24  incoming request GET /Js/Dashboard.js
+ [+] 30-04-2024 08:40:51  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:40:51  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:40:51  Database Successfully Conected
+ [+] 30-04-2024 08:40:51  Data Was Served..
+ [+] 30-04-2024 08:40:51  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 08:42:01  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:42:01  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:42:01  Database Successfully Conected
+ [+] 30-04-2024 08:42:01  Data Was Served..
+ [+] 30-04-2024 08:42:01  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 08:42:51  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 08:42:51  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 08:42:51  Database Successfully Conected
+ [+] 30-04-2024 08:42:51  Data Was Served..
+ [+] 30-04-2024 08:42:51  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 08:43:00  incoming request GET /login
+ [*] 30-04-2024 08:43:08  incoming request POST /login
+ [*] 30-04-2024 08:43:08  incoming request GET /Dashboard
+ [*] 30-04-2024 08:43:08  incoming request GET /login
+ [*] 30-04-2024 08:44:05  incoming request GET /login
+ [*] 30-04-2024 08:44:12  incoming request GET /
+ [*] 30-04-2024 08:54:43  incoming request GET /
+ [*] 30-04-2024 08:54:55  incoming request GET /
+ [*] 30-04-2024 08:55:01  incoming request GET /
+ [*] 30-04-2024 08:55:12  incoming request GET /
+ [*] 30-04-2024 08:55:15  incoming request GET /login
+ [*] 30-04-2024 08:56:15  incoming request GET /login
+ [*] 30-04-2024 08:56:23  incoming request POST /login
+ [*] 30-04-2024 08:56:26  incoming request POST /login
+ [*] 30-04-2024 08:56:27  incoming request POST /login
+ [*] 30-04-2024 08:56:28  incoming request POST /login
+ [*] 30-04-2024 08:56:28  incoming request POST /login
+ [*] 30-04-2024 08:56:30  incoming request POST /login
+ [*] 30-04-2024 08:56:31  incoming request POST /login
+ [*] 30-04-2024 08:56:39  incoming request POST /login
+ [*] 30-04-2024 08:56:43  incoming request GET /
+ [*] 30-04-2024 08:56:46  incoming request GET /login
+ [*] 30-04-2024 08:56:49  incoming request POST /login
+ [*] 30-04-2024 08:56:49  incoming request GET /Dashboard
+ [*] 30-04-2024 08:56:49  incoming request GET /login
+ [*] 30-04-2024 08:56:56  incoming request POST /login
+ [*] 30-04-2024 08:56:56  incoming request GET /Dashboard
+ [*] 30-04-2024 08:56:56  incoming request GET /login
+ [*] 30-04-2024 08:57:06  incoming request POST /login
+ [*] 30-04-2024 08:57:06  incoming request GET /Dashboard
+ [*] 30-04-2024 08:57:06  incoming request GET /login
+ [*] 30-04-2024 08:57:09  incoming request POST /login
+ [*] 30-04-2024 08:57:10  incoming request POST /login
+ [*] 30-04-2024 08:57:10  incoming request POST /login
+ [*] 30-04-2024 08:57:11  incoming request POST /login
+ [*] 30-04-2024 08:57:15  incoming request POST /login
+ [*] 30-04-2024 08:57:18  incoming request POST /login
+ [*] 30-04-2024 08:57:18  incoming request GET /Dashboard
+ [*] 30-04-2024 08:57:18  incoming request GET /login
+ [*] 30-04-2024 08:57:52  incoming request GET /login
+ [*] 30-04-2024 08:57:55  incoming request POST /login
+ [*] 30-04-2024 08:57:55  incoming request GET /Dashboard
+ [*] 30-04-2024 08:57:55  incoming request GET /login
+ [*] 30-04-2024 08:57:56  incoming request POST /login
+ [*] 30-04-2024 08:58:05  incoming request POST /login
+ [*] 30-04-2024 08:58:06  incoming request POST /login
+ [*] 30-04-2024 08:58:07  incoming request POST /login
+ [*] 30-04-2024 08:58:17  incoming request POST /login
+ [*] 30-04-2024 08:58:17  incoming request POST /login
+ [*] 30-04-2024 08:58:19  incoming request POST /login
+ [*] 30-04-2024 08:58:19  incoming request GET /Dashboard
+ [*] 30-04-2024 08:58:19  incoming request GET /login
+ [*] 30-04-2024 08:58:47  incoming request GET /
+ [*] 30-04-2024 08:58:50  incoming request GET /login
+ [*] 30-04-2024 08:58:52  incoming request POST /login
+ [*] 30-04-2024 08:58:52  incoming request GET /Dashboard
+ [*] 30-04-2024 08:58:52  incoming request GET /login
+ [*] 30-04-2024 08:59:18  incoming request GET /login
+ [*] 30-04-2024 08:59:22  incoming request POST /login
+ [*] 30-04-2024 08:59:22  incoming request GET /Dashboard
+ [*] 30-04-2024 08:59:22  incoming request GET /login
+ [*] 30-04-2024 08:59:58  incoming request GET /login
+ [*] 30-04-2024 08:59:59  incoming request POST /login
+ [*] 30-04-2024 09:00:02  incoming request POST /login
+ [*] 30-04-2024 09:00:03  incoming request GET /Dashboard
+ [*] 30-04-2024 09:00:03  incoming request GET /login
+ [*] 30-04-2024 09:00:18  incoming request POST /login
+ [*] 30-04-2024 09:00:21  incoming request POST /login
+ [*] 30-04-2024 09:00:21  incoming request GET /Dashboard
+ [*] 30-04-2024 09:00:21  incoming request GET /login
+ [*] 30-04-2024 09:00:34  incoming request POST /login
+ [+] 30-04-2024 09:01:15  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [*] 30-04-2024 09:01:15  incoming request GET /login
+ [+] 30-04-2024 09:01:16  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:01:16  Database Successfully Conected
+ [+] 30-04-2024 09:01:16  Data Was Served..
+ [+] 30-04-2024 09:01:16  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:01:30  incoming request POST /login
+ [*] 30-04-2024 09:01:30  incoming request GET /Dashboard
+ [*] 30-04-2024 09:01:30  incoming request GET /login
+ [*] 30-04-2024 09:02:39  incoming request POST /login
+ [*] 30-04-2024 09:02:39  incoming request GET /Dashboard
+ [*] 30-04-2024 09:02:39  incoming request GET /login
+ [*] 30-04-2024 09:04:22  incoming request GET /login
+ [*] 30-04-2024 09:04:28  incoming request POST /login
+ [*] 30-04-2024 09:04:28  incoming request GET /Dashboard
+ [*] 30-04-2024 09:04:28  incoming request GET /login
+ [*] 30-04-2024 09:04:35  incoming request GET /login
+ [*] 30-04-2024 09:04:37  incoming request GET /login
+ [*] 30-04-2024 09:04:40  incoming request POST /login
+ [*] 30-04-2024 09:04:40  incoming request GET /Dashboard
+ [*] 30-04-2024 09:04:40  incoming request GET /login
+ [*] 30-04-2024 09:04:40  incoming request POST /login
+ [*] 30-04-2024 09:04:46  incoming request POST /login
+ [*] 30-04-2024 09:04:48  incoming request POST /login
+ [*] 30-04-2024 09:04:50  incoming request POST /login
+ [*] 30-04-2024 09:04:52  incoming request GET /login
+ [*] 30-04-2024 09:04:56  incoming request POST /login
+ [*] 30-04-2024 09:05:01  incoming request GET /login
+ [*] 30-04-2024 09:05:09  incoming request POST /login
+ [*] 30-04-2024 09:05:13  incoming request POST /login
+ [*] 30-04-2024 09:05:13  incoming request GET /Dashboard
+ [*] 30-04-2024 09:05:13  incoming request GET /login
+ [*] 30-04-2024 09:05:41  incoming request GET /login
+ [*] 30-04-2024 09:05:43  incoming request POST /login
+ [*] 30-04-2024 09:05:43  incoming request GET /Dashboard
+ [*] 30-04-2024 09:05:43  incoming request GET /login
+ [*] 30-04-2024 09:06:00  incoming request GET /login
+ [*] 30-04-2024 09:06:02  incoming request POST /login
+ [*] 30-04-2024 09:06:02  incoming request GET /Dashboard
+ [*] 30-04-2024 09:06:02  incoming request GET /login
+ [+] 30-04-2024 09:09:20  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:09:20  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:09:20  Database Successfully Conected
+ [+] 30-04-2024 09:09:20  Data Was Served..
+ [+] 30-04-2024 09:09:20  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:09:22  incoming request GET /login
+ [*] 30-04-2024 09:09:40  incoming request GET /login
+ [*] 30-04-2024 09:10:09  incoming request GET /
+ [*] 30-04-2024 09:10:13  incoming request GET /login
+ [*] 30-04-2024 09:10:32  incoming request GET /login
+ [*] 30-04-2024 09:10:50  incoming request GET /login
+ [*] 30-04-2024 09:10:55  incoming request GET /login
+ [*] 30-04-2024 09:11:10  incoming request GET /login
+ [*] 30-04-2024 09:11:15  incoming request GET /
+ [*] 30-04-2024 09:11:20  incoming request GET /
+ [*] 30-04-2024 09:12:06  incoming request GET /login
+ [*] 30-04-2024 09:12:09  incoming request POST /login
+ [*] 30-04-2024 09:12:09  incoming request GET /Dashboard
+ [*] 30-04-2024 09:12:09  incoming request GET /login
+ [*] 30-04-2024 09:13:09  incoming request POST /login
+ [*] 30-04-2024 09:13:09  incoming request GET /Dashboard
+ [*] 30-04-2024 09:13:09  incoming request GET /login
+ [+] 30-04-2024 09:23:43  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:23:43  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:23:43  Database Successfully Conected
+ [+] 30-04-2024 09:23:43  Data Was Served..
+ [+] 30-04-2024 09:23:43  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:23:48  incoming request GET /
+ [*] 30-04-2024 09:23:50  incoming request GET /favicon.ico
+ [*] 30-04-2024 09:23:52  incoming request GET /login
+ [*] 30-04-2024 09:23:55  incoming request POST /login
+ [*] 30-04-2024 09:23:56  incoming request GET /Dashboard
+ [*] 30-04-2024 09:24:12  incoming request GET /
+ [*] 30-04-2024 09:24:42  incoming request GET /
+ [*] 30-04-2024 09:24:45  incoming request GET /login
+ [*] 30-04-2024 09:24:49  incoming request POST /login
+ [*] 30-04-2024 09:24:56  incoming request POST /login
+ [*] 30-04-2024 09:24:56  incoming request GET /Dashboard
+ [+] 30-04-2024 09:26:16  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:26:16  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:26:16  Database Successfully Conected
+ [+] 30-04-2024 09:26:16  Data Was Served..
+ [+] 30-04-2024 09:26:16  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:26:20  incoming request GET /login
+ [*] 30-04-2024 09:26:24  incoming request POST /login
+ [*] 30-04-2024 09:26:24  incoming request GET /Dashboard
+ [*] 30-04-2024 09:26:25  incoming request GET /Js/Dashboard.js
+ [+] 30-04-2024 09:27:04  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:27:04  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:27:04  Database Successfully Conected
+ [+] 30-04-2024 09:27:04  Data Was Served..
+ [+] 30-04-2024 09:27:04  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 09:27:06  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:27:06  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:27:06  Database Successfully Conected
+ [+] 30-04-2024 09:27:06  Data Was Served..
+ [+] 30-04-2024 09:27:06  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:27:17  incoming request GET /
+ [*] 30-04-2024 09:27:20  incoming request GET /login
+ [*] 30-04-2024 09:27:23  incoming request POST /login
+ [*] 30-04-2024 09:27:23  incoming request GET /Dashboard
+ [*] 30-04-2024 09:27:23  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:27:29  incoming request POST /login
+ [*] 30-04-2024 09:28:55  incoming request GET /dashboard
+ [*] 30-04-2024 09:28:55  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:29:55  incoming request GET /
+ [*] 30-04-2024 09:30:01  incoming request GET /login
+ [*] 30-04-2024 09:30:03  incoming request GET /dashboard
+ [*] 30-04-2024 09:30:03  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:30:23  incoming request GET /dashboard
+ [*] 30-04-2024 09:30:23  incoming request GET /login
+ [*] 30-04-2024 09:30:39  incoming request GET /
+ [*] 30-04-2024 09:30:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 09:30:47  incoming request GET /dashboard
+ [*] 30-04-2024 09:30:47  incoming request GET /login
+ [*] 30-04-2024 09:30:54  incoming request POST /login
+ [*] 30-04-2024 09:30:54  incoming request GET /Dashboard
+ [*] 30-04-2024 09:30:54  incoming request GET /Js/Dashboard.js
+ [+] 30-04-2024 09:33:50  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:33:50  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:33:50  Database Successfully Conected
+ [+] 30-04-2024 09:33:50  Data Was Served..
+ [+] 30-04-2024 09:33:50  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:33:56  incoming request POST /login
+ [*] 30-04-2024 09:33:56  incoming request GET /Dashboard
+ [*] 30-04-2024 09:33:56  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:34:01  incoming request GET /login
+ [*] 30-04-2024 09:34:01  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:34:06  incoming request GET /login
+ [*] 30-04-2024 09:34:06  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:34:10  incoming request GET /login
+ [*] 30-04-2024 09:34:10  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:34:17  incoming request GET /login
+ [*] 30-04-2024 09:34:17  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:34:41  incoming request GET /login
+ [*] 30-04-2024 09:35:12  incoming request GET /login
+ [*] 30-04-2024 09:35:22  incoming request GET /login
+ [*] 30-04-2024 09:35:22  incoming request GET /login
+ [*] 30-04-2024 09:35:22  incoming request GET /login
+ [*] 30-04-2024 09:35:22  incoming request GET /login
+ [*] 30-04-2024 09:35:22  incoming request GET /login
+ [*] 30-04-2024 09:35:22  incoming request GET /login
+ [*] 30-04-2024 09:35:22  incoming request GET /login
+ [*] 30-04-2024 09:35:22  incoming request GET /login
+ [*] 30-04-2024 09:35:22  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:23  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:24  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:25  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [*] 30-04-2024 09:35:30  incoming request GET /login
+ [+] 30-04-2024 09:35:39  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:35:39  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:35:39  Database Successfully Conected
+ [+] 30-04-2024 09:35:39  Data Was Served..
+ [+] 30-04-2024 09:35:39  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:41  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:42  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:46  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:47  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:53  incoming request GET /login
+ [*] 30-04-2024 09:35:54  incoming request GET /login
+ [*] 30-04-2024 09:35:54  incoming request GET /login
+ [*] 30-04-2024 09:35:54  incoming request GET /login
+ [*] 30-04-2024 09:35:54  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:35:55  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:00  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:25  incoming request GET /login
+ [*] 30-04-2024 09:36:28  incoming request GET /
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:31  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [*] 30-04-2024 09:36:32  incoming request GET /login
+ [+] 30-04-2024 09:36:42  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:36:42  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:36:42  Database Successfully Conected
+ [+] 30-04-2024 09:36:42  Data Was Served..
+ [+] 30-04-2024 09:36:42  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:36:42  incoming request GET /login
+ [*] 30-04-2024 09:36:42  incoming request GET /login
+ [*] 30-04-2024 09:36:42  incoming request GET /login
+ [*] 30-04-2024 09:36:42  incoming request GET /login
+ [*] 30-04-2024 09:36:42  incoming request GET /login
+ [*] 30-04-2024 09:36:42  incoming request GET /login
+ [*] 30-04-2024 09:36:42  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:43  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:44  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:48  incoming request GET /login
+ [*] 30-04-2024 09:36:49  incoming request GET /login
+ [*] 30-04-2024 09:36:49  incoming request GET /login
+ [*] 30-04-2024 09:36:49  incoming request GET /login
+ [*] 30-04-2024 09:36:49  incoming request GET /login
+ [*] 30-04-2024 09:36:49  incoming request GET /login
+ [*] 30-04-2024 09:36:49  incoming request GET /login
+ [*] 30-04-2024 09:36:49  incoming request GET /login
+ [*] 30-04-2024 09:36:49  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:50  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [*] 30-04-2024 09:36:55  incoming request GET /login
+ [+] 30-04-2024 09:37:19  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:37:19  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:37:19  Database Successfully Conected
+ [+] 30-04-2024 09:37:19  Data Was Served..
+ [+] 30-04-2024 09:37:19  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:37:35  incoming request GET /
+ [*] 30-04-2024 09:37:36  incoming request GET /favicon.ico
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:39  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:40  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [*] 30-04-2024 09:37:45  incoming request GET /login
+ [+] 30-04-2024 09:38:05  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:38:05  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:38:05  Database Successfully Conected
+ [+] 30-04-2024 09:38:05  Data Was Served..
+ [+] 30-04-2024 09:38:05  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [*] 30-04-2024 09:38:15  incoming request GET /login
+ [+] 30-04-2024 09:38:46  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:38:46  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:38:46  Database Successfully Conected
+ [+] 30-04-2024 09:38:46  Data Was Served..
+ [+] 30-04-2024 09:38:46  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:38:50  incoming request GET /
+ [*] 30-04-2024 09:38:52  incoming request GET /login
+ [*] 30-04-2024 09:38:55  incoming request POST /login
+ [*] 30-04-2024 09:38:55  incoming request GET /Dashboard
+ [*] 30-04-2024 09:38:55  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:39:15  incoming request GET /login
+ [*] 30-04-2024 09:39:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:39:26  incoming request GET /Dashboard
+ [*] 30-04-2024 09:39:39  incoming request POST /login
+ [*] 30-04-2024 09:39:39  incoming request GET /Dashboard
+ [*] 30-04-2024 09:39:39  incoming request GET /Js/Dashboard.js
+ [+] 30-04-2024 09:41:00  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:41:00  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:41:00  Database Successfully Conected
+ [+] 30-04-2024 09:41:00  Data Was Served..
+ [+] 30-04-2024 09:41:00  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 09:41:47  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:41:47  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:41:47  Database Successfully Conected
+ [+] 30-04-2024 09:41:47  Data Was Served..
+ [+] 30-04-2024 09:41:47  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:41:51  incoming request GET /
+ [*] 30-04-2024 09:41:55  incoming request GET /login
+ [*] 30-04-2024 09:41:55  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:42:12  incoming request GET /
+ [*] 30-04-2024 09:42:15  incoming request GET /login
+ [*] 30-04-2024 09:42:18  incoming request POST /login
+ [*] 30-04-2024 09:42:18  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:18  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:42:28  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:37  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:38  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:38  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:38  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:39  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:39  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:39  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:39  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:39  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:39  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:52  incoming request GET /login
+ [*] 30-04-2024 09:42:57  incoming request GET /login
+ [*] 30-04-2024 09:42:58  incoming request POST /login
+ [*] 30-04-2024 09:42:58  incoming request GET /Dashboard
+ [*] 30-04-2024 09:42:59  incoming request GET /Js/Dashboard.js
+ [+] 30-04-2024 09:45:54  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:45:54  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:45:54  Database Successfully Conected
+ [+] 30-04-2024 09:45:54  Data Was Served..
+ [+] 30-04-2024 09:45:54  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:46:00  incoming request GET /Dashboard
+ [*] 30-04-2024 09:46:00  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:46:46  incoming request GET /Dashboard
+ [*] 30-04-2024 09:46:51  incoming request GET /Dashboard
+ [*] 30-04-2024 09:46:51  incoming request GET /Dashboard
+ [*] 30-04-2024 09:46:52  incoming request GET /Dashboard
+ [*] 30-04-2024 09:46:52  incoming request GET /Dashboard
+ [*] 30-04-2024 09:46:52  incoming request GET /Dashboard
+ [*] 30-04-2024 09:46:52  incoming request GET /Dashboard
+ [*] 30-04-2024 09:46:52  incoming request GET /Dashboard
+ [+] 30-04-2024 09:46:57  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:46:57  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:46:57  Database Successfully Conected
+ [+] 30-04-2024 09:46:57  Data Was Served..
+ [+] 30-04-2024 09:46:57  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 09:47:27  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:47:27  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:47:27  Database Successfully Conected
+ [+] 30-04-2024 09:47:27  Data Was Served..
+ [+] 30-04-2024 09:47:27  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 09:47:32  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:47:32  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:47:32  Database Successfully Conected
+ [+] 30-04-2024 09:47:32  Data Was Served..
+ [+] 30-04-2024 09:47:32  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:47:35  incoming request GET /Dashboard
+ [*] 30-04-2024 09:47:43  incoming request POST /login
+ [*] 30-04-2024 09:47:44  incoming request GET /Dashboard
+ [*] 30-04-2024 09:47:44  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 09:48:01  incoming request GET /dashboard
+ [+] 30-04-2024 09:51:07  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:51:07  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:51:07  Database Successfully Conected
+ [+] 30-04-2024 09:51:07  Data Was Served..
+ [+] 30-04-2024 09:51:07  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:51:18  incoming request GET /dashboard
+ [*] 30-04-2024 09:51:19  incoming request GET /Js/Dashboard.js
+ [+] 30-04-2024 09:52:35  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:52:35  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:52:35  Database Successfully Conected
+ [+] 30-04-2024 09:52:35  Data Was Served..
+ [+] 30-04-2024 09:52:35  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:53:00  incoming request GET /dashboard
+ [+] 30-04-2024 09:53:39  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 09:53:39  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 09:53:39  Database Successfully Conected
+ [+] 30-04-2024 09:53:39  Data Was Served..
+ [+] 30-04-2024 09:53:39  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 09:53:41  incoming request GET /dashboard
+ [+] 30-04-2024 10:03:09  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 10:03:09  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 10:03:09  Database Successfully Conected
+ [+] 30-04-2024 10:03:09  Data Was Served..
+ [+] 30-04-2024 10:03:09  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 10:03:15  incoming request GET /login
+ [*] 30-04-2024 10:03:35  incoming request POST /login
+ [*] 30-04-2024 10:03:35  incoming request GET /Dashboard
+ [*] 30-04-2024 10:03:36  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 10:03:49  incoming request GET /Dashboard
+ [+] 30-04-2024 10:06:23  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 10:06:23  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 10:06:23  Database Successfully Conected
+ [+] 30-04-2024 10:06:23  Data Was Served..
+ [+] 30-04-2024 10:06:23  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 10:06:25  incoming request GET /Dashboard
+ [*] 30-04-2024 10:06:27  incoming request GET /login
+ [*] 30-04-2024 10:06:27  incoming request GET /login
+ [*] 30-04-2024 10:06:28  incoming request GET /login
+ [*] 30-04-2024 10:06:28  incoming request GET /login
+ [*] 30-04-2024 10:06:28  incoming request GET /login
+ [*] 30-04-2024 10:06:40  incoming request GET /login
+ [*] 30-04-2024 10:06:44  incoming request POST /login
+ [*] 30-04-2024 10:06:44  incoming request GET /Dashboard
+ [*] 30-04-2024 10:06:44  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 10:06:52  incoming request GET /Dashboard
+ [+] 30-04-2024 10:07:26  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 10:07:26  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 10:07:26  Database Successfully Conected
+ [+] 30-04-2024 10:07:26  Data Was Served..
+ [+] 30-04-2024 10:07:26  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 10:07:30  incoming request GET /Dashboard
+ [*] 30-04-2024 10:07:31  incoming request GET /Dashboard
+ [*] 30-04-2024 10:07:32  incoming request GET /Dashboard
+ [*] 30-04-2024 10:07:32  incoming request GET /Dashboard
+ [*] 30-04-2024 10:07:32  incoming request GET /Dashboard
+ [*] 30-04-2024 10:07:32  incoming request GET /Dashboard
+ [+] 30-04-2024 10:09:26  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 10:09:26  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 10:09:26  Database Successfully Conected
+ [+] 30-04-2024 10:09:26  Data Was Served..
+ [+] 30-04-2024 10:09:26  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 10:09:33  incoming request GET /login
+ [*] 30-04-2024 10:09:42  incoming request GET /login
+ [*] 30-04-2024 10:09:47  incoming request POST /login
+ [*] 30-04-2024 10:09:47  incoming request GET /Dashboard
+ [+] 30-04-2024 10:22:00  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 10:22:00  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 10:22:00  Database Successfully Conected
+ [+] 30-04-2024 10:22:00  Data Was Served..
+ [+] 30-04-2024 10:22:00  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 10:22:12  incoming request GET /Dashboard
+ [*] 30-04-2024 10:22:17  incoming request GET /Js/Dashboard.js
+ [+] 30-04-2024 11:44:19  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 11:44:19  Deleted old log file: 23-04-2024.log
+ [+] 30-04-2024 11:44:19  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 11:44:19  Database Successfully Conected
+ [+] 30-04-2024 11:44:19  Data Was Served..
+ [+] 30-04-2024 11:44:19  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 12:11:30  incoming request GET /
+ [*] 30-04-2024 12:11:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 12:11:34  incoming request GET /login
+ [*] 30-04-2024 12:11:36  incoming request POST /login
+ [*] 30-04-2024 12:11:36  incoming request GET /Dashboard
+ [*] 30-04-2024 12:11:37  incoming request GET /Js/Dashboard.js
+ [+] 30-04-2024 12:13:21  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 12:13:21  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 12:13:21  Database Successfully Conected
+ [+] 30-04-2024 12:13:21  Data Was Served..
+ [+] 30-04-2024 12:13:21  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 12:31:46  incoming request GET /login
+ [*] 30-04-2024 12:31:55  incoming request POST /login
+ [*] 30-04-2024 12:31:56  incoming request GET /Dashboard
+ [*] 30-04-2024 12:31:56  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 12:32:10  incoming request GET /Dashboard
+ [+] 30-04-2024 12:37:02  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 12:37:02  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 12:37:02  Database Successfully Conected
+ [+] 30-04-2024 12:37:02  Data Was Served..
+ [+] 30-04-2024 12:37:02  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 12:37:06  incoming request GET /
+ [*] 30-04-2024 12:37:09  incoming request GET /login
+ [*] 30-04-2024 12:37:41  incoming request GET /
+ [*] 30-04-2024 12:37:43  incoming request GET /login
+ [*] 30-04-2024 12:41:50  incoming request GET /user
+ [*] 30-04-2024 12:41:51  incoming request GET /user
+ [*] 30-04-2024 12:41:54  incoming request GET /
+ [*] 30-04-2024 12:41:57  incoming request GET /login
+ [+] 30-04-2024 12:42:43  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 12:42:43  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 12:42:43  Database Successfully Conected
+ [+] 30-04-2024 12:42:43  Data Was Served..
+ [+] 30-04-2024 12:42:43  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 12:42:48  incoming request GET /login
+ [+] 30-04-2024 12:42:54  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 12:42:54  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 12:42:54  Database Successfully Conected
+ [+] 30-04-2024 12:42:54  Data Was Served..
+ [+] 30-04-2024 12:42:54  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 12:43:00  incoming request GET /login
+ [+] 30-04-2024 12:43:06  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 12:43:06  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 12:43:06  Database Successfully Conected
+ [+] 30-04-2024 12:43:06  Data Was Served..
+ [+] 30-04-2024 12:43:06  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 12:43:06  incoming request GET /
+ [*] 30-04-2024 12:43:08  incoming request GET /login
+ [+] 30-04-2024 12:44:54  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [*] 30-04-2024 12:44:54  incoming request GET /
+ [+] 30-04-2024 12:44:56  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 12:44:56  Database Successfully Conected
+ [+] 30-04-2024 12:44:56  Data Was Served..
+ [+] 30-04-2024 12:44:56  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 12:44:57  incoming request GET /favicon.ico
+ [*] 30-04-2024 12:44:59  incoming request GET /
+ [*] 30-04-2024 12:45:03  incoming request GET /login
+ [*] 30-04-2024 12:45:07  incoming request POST /login
+ [*] 30-04-2024 12:45:07  incoming request GET /Dashboard
+ [*] 30-04-2024 12:45:08  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 12:45:24  incoming request GET /Dashboard
+ [*] 30-04-2024 12:45:24  incoming request GET /login
+ [*] 30-04-2024 12:45:35  incoming request POST /login
+ [*] 30-04-2024 12:45:35  incoming request GET /Dashboard
+ [*] 30-04-2024 12:45:35  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 12:45:53  incoming request GET /Dashboard
+ [*] 30-04-2024 12:45:53  incoming request GET /login
+ [+] 30-04-2024 12:47:29  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 12:47:29  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 12:47:29  Database Successfully Conected
+ [+] 30-04-2024 12:47:29  Data Was Served..
+ [+] 30-04-2024 12:47:29  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 12:52:42  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 12:52:43  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 12:52:43  Database Successfully Conected
+ [+] 30-04-2024 12:52:43  Data Was Served..
+ [+] 30-04-2024 12:52:43  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 16:53:01  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 16:53:01  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 16:53:01  Database Successfully Conected
+ [+] 30-04-2024 16:53:01  Data Was Served..
+ [+] 30-04-2024 16:53:01  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 16:53:09  incoming request GET /
+ [*] 30-04-2024 16:53:11  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:53:17  incoming request GET /login
+ [*] 30-04-2024 16:53:17  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:08  incoming request POST /login
+ [*] 30-04-2024 16:54:08  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:08  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:08  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:39  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:39  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:39  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:39  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:40  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:40  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:40  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:40  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:40  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:40  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:50  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:50  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:50  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:51  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:51  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:51  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:51  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:51  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:51  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:51  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:51  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:51  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:54:51  incoming request GET /Dashboard
+ [*] 30-04-2024 16:54:51  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:54:51  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:55:04  incoming request GET /Dashboard
+ [*] 30-04-2024 16:55:04  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:55:04  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:55:05  incoming request GET /Dashboard
+ [*] 30-04-2024 16:55:05  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:55:05  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:55:05  incoming request GET /Dashboard
+ [*] 30-04-2024 16:55:05  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:55:05  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:55:05  incoming request GET /Dashboard
+ [*] 30-04-2024 16:55:05  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:55:05  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:55:05  incoming request GET /Dashboard
+ [*] 30-04-2024 16:55:05  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:55:05  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:55:05  incoming request GET /Dashboard
+ [*] 30-04-2024 16:55:05  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:55:05  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:55:06  incoming request GET /Dashboard
+ [*] 30-04-2024 16:55:06  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:55:06  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:57:50  incoming request GET /Dashboard
+ [*] 30-04-2024 16:57:50  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:57:50  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:59:08  incoming request GET /Dashboard
+ [*] 30-04-2024 16:59:08  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:59:08  incoming request GET /favicon.ico
+ [*] 30-04-2024 16:59:20  incoming request GET /Dashboard
+ [*] 30-04-2024 16:59:20  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 16:59:20  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:00:44  incoming request GET /Dashboard
+ [*] 30-04-2024 17:00:44  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:00:44  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:00:45  incoming request GET /Dashboard
+ [*] 30-04-2024 17:00:45  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:00:45  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:00:45  incoming request GET /Dashboard
+ [*] 30-04-2024 17:00:45  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:00:45  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:00:45  incoming request GET /Dashboard
+ [*] 30-04-2024 17:00:45  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:00:45  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:00:51  incoming request GET /Dashboard
+ [*] 30-04-2024 17:00:51  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:00:51  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:00:51  incoming request GET /Dashboard
+ [*] 30-04-2024 17:00:51  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:00:51  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:00:51  incoming request GET /Dashboard
+ [*] 30-04-2024 17:00:51  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:00:51  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:45  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:45  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:45  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:46  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:46  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:46  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:46  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:46  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:46  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:46  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:46  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:46  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:46  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:46  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:46  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:46  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:46  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:46  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:46  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:47  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:47  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:47  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:47  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:47  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:47  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:47  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:47  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:47  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:47  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:47  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:48  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:01:49  incoming request POST /login
+ [*] 30-04-2024 17:01:49  incoming request GET /Dashboard
+ [*] 30-04-2024 17:01:49  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:01:49  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:02:26  incoming request GET /Dashboard
+ [*] 30-04-2024 17:02:26  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:02:26  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:02:26  incoming request GET /Dashboard
+ [*] 30-04-2024 17:02:26  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:02:26  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:02:26  incoming request GET /Dashboard
+ [*] 30-04-2024 17:02:26  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:02:26  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:02:26  incoming request GET /Dashboard
+ [*] 30-04-2024 17:02:26  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:02:26  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:04:16  incoming request GET /Dashboard
+ [*] 30-04-2024 17:04:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:04:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:04:34  incoming request GET /Dashboard
+ [*] 30-04-2024 17:04:34  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:04:34  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:04:36  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:05:35  incoming request GET /Dashboard
+ [*] 30-04-2024 17:05:35  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:05:35  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:06:05  incoming request GET /Dashboard
+ [*] 30-04-2024 17:06:05  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:06:05  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:06:33  incoming request GET /Dashboard
+ [*] 30-04-2024 17:06:33  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:06:33  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:06:50  incoming request GET /Dashboard
+ [*] 30-04-2024 17:06:50  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:06:50  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:07:01  incoming request GET /Dashboard
+ [*] 30-04-2024 17:07:01  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:07:01  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:07:05  incoming request GET /Dashboard
+ [*] 30-04-2024 17:07:05  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:07:05  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:07:10  incoming request GET /Dashboard
+ [*] 30-04-2024 17:07:10  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:07:10  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:07:13  incoming request GET /Dashboard
+ [*] 30-04-2024 17:07:13  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:07:13  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:07:16  incoming request GET /Dashboard
+ [*] 30-04-2024 17:07:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:07:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:07:21  incoming request GET /Dashboard
+ [*] 30-04-2024 17:07:21  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:07:21  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:07:34  incoming request GET /Dashboard
+ [*] 30-04-2024 17:07:34  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:07:34  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:08:17  incoming request GET /Dashboard
+ [*] 30-04-2024 17:08:17  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:08:17  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:08:30  incoming request GET /Dashboard
+ [*] 30-04-2024 17:08:30  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:08:30  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:08:40  incoming request GET /Dashboard
+ [*] 30-04-2024 17:08:41  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:08:41  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:08:47  incoming request GET /Dashboard
+ [*] 30-04-2024 17:08:47  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:08:47  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:08:52  incoming request GET /Dashboard
+ [*] 30-04-2024 17:08:52  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:08:52  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:15  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:15  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:16  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:16  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:16  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:16  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:16  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:16  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:31  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:32  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:32  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:32  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:32  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:32  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:32  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:32  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:43  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:44  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:44  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:44  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:44  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:44  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:44  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:44  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:44  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:09:50  incoming request GET /Dashboard
+ [*] 30-04-2024 17:09:50  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:09:50  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:10:03  incoming request GET /Dashboard
+ [*] 30-04-2024 17:10:03  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:10:03  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:10:06  incoming request GET /Dashboard
+ [*] 30-04-2024 17:10:06  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:10:06  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:10:29  incoming request GET /Dashboard
+ [*] 30-04-2024 17:10:29  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:10:29  incoming request GET /favicon.ico
+ [+] 30-04-2024 17:53:32  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 17:53:32  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 17:53:32  Database Successfully Conected
+ [+] 30-04-2024 17:53:32  Data Was Served..
+ [+] 30-04-2024 17:53:32  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 17:53:35  incoming request GET /Dashboard
+ [*] 30-04-2024 17:53:35  incoming request GET /login
+ [*] 30-04-2024 17:53:36  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:53:40  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:53:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:53:41  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:53:41  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:53:42  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:53:42  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:53:52  incoming request GET /movies
+ [*] 30-04-2024 17:53:54  incoming request GET /
+ [*] 30-04-2024 17:53:55  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:53:59  incoming request GET /login
+ [*] 30-04-2024 17:53:59  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:54:02  incoming request POST /login
+ [*] 30-04-2024 17:54:02  incoming request GET /Dashboard
+ [*] 30-04-2024 17:54:02  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:54:02  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:54:06  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:54:12  incoming request GET /Dashboard
+ [*] 30-04-2024 17:54:12  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:54:12  incoming request GET /favicon.ico
+ [+] 30-04-2024 17:55:28  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 17:55:28  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 17:55:28  Database Successfully Conected
+ [+] 30-04-2024 17:55:28  Data Was Served..
+ [+] 30-04-2024 17:55:28  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 17:56:36  incoming request GET /
+ [*] 30-04-2024 17:56:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:56:41  incoming request GET /login
+ [*] 30-04-2024 17:56:41  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:56:41  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:56:43  incoming request GET /login
+ [*] 30-04-2024 17:56:43  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:56:43  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:58:03  incoming request GET /
+ [*] 30-04-2024 17:58:04  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:58:07  incoming request GET /login
+ [*] 30-04-2024 17:58:08  incoming request GET /favicon.ico
+ [*] 30-04-2024 17:58:09  incoming request POST /login
+ [*] 30-04-2024 17:58:09  incoming request GET /Dashboard
+ [*] 30-04-2024 17:58:09  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 17:58:09  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:07:45  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:09:01  incoming request GET /login
+ [*] 30-04-2024 18:09:02  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:09:02  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:09:02  incoming request GET /login
+ [*] 30-04-2024 18:09:02  incoming request GET /login
+ [*] 30-04-2024 18:09:02  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:09:02  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:09:02  incoming request GET /login
+ [*] 30-04-2024 18:09:03  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:09:06  incoming request POST /login
+ [*] 30-04-2024 18:09:06  incoming request GET /Dashboard
+ [*] 30-04-2024 18:09:06  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:09:06  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:09:14  incoming request GET /Dashboard
+ [*] 30-04-2024 18:09:14  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:09:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:09:15  incoming request GET /Dashboard
+ [*] 30-04-2024 18:09:15  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:09:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:09:15  incoming request GET /Dashboard
+ [*] 30-04-2024 18:09:15  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:09:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:09:16  incoming request GET /Dashboard
+ [*] 30-04-2024 18:09:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:09:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:18:18  incoming request GET /Dashboard
+ [*] 30-04-2024 18:18:18  incoming request GET /login
+ [*] 30-04-2024 18:18:19  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:18:20  incoming request POST /login
+ [*] 30-04-2024 18:18:20  incoming request GET /Dashboard
+ [*] 30-04-2024 18:18:20  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:18:21  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:18:44  incoming request GET /Dashboard
+ [*] 30-04-2024 18:18:44  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:18:44  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:18:45  incoming request GET /Dashboard
+ [*] 30-04-2024 18:18:45  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:18:45  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:18:45  incoming request GET /Dashboard
+ [*] 30-04-2024 18:18:45  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:18:45  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:18:59  incoming request GET /Dashboard
+ [*] 30-04-2024 18:18:59  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:18:59  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:19:10  incoming request GET /Dashboard
+ [*] 30-04-2024 18:19:10  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:19:10  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:19:28  incoming request GET /Dashboard
+ [*] 30-04-2024 18:19:28  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:19:28  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:19:39  incoming request GET /Dashboard
+ [*] 30-04-2024 18:19:39  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:19:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:19:53  incoming request GET /Dashboard
+ [*] 30-04-2024 18:19:53  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:19:53  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:19:58  incoming request GET /POST
+ [*] 30-04-2024 18:19:58  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:20:00  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:32:36  incoming request GET /Dashboard
+ [*] 30-04-2024 18:32:36  incoming request GET /login
+ [*] 30-04-2024 18:32:37  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:32:39  incoming request POST /login
+ [*] 30-04-2024 18:32:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:32:41  incoming request GET /login
+ [*] 30-04-2024 18:32:41  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:32:44  incoming request GET /login
+ [*] 30-04-2024 18:32:44  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:32:45  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:32:45  incoming request GET /favicon.ico
+ [+] 30-04-2024 18:34:07  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:34:07  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:34:07  Database Successfully Conected
+ [+] 30-04-2024 18:34:07  Data Was Served..
+ [+] 30-04-2024 18:34:07  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:34:46  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:34:46  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:34:46  Database Successfully Conected
+ [+] 30-04-2024 18:34:46  Data Was Served..
+ [+] 30-04-2024 18:34:46  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 18:34:48  incoming request POST /login
+ [*] 30-04-2024 18:34:48  incoming request GET /Dashboard
+ [*] 30-04-2024 18:34:49  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:34:49  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:34:52  incoming request GET /POST
+ [*] 30-04-2024 18:34:52  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:36:57  incoming request GET /login
+ [*] 30-04-2024 18:36:57  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:36:58  incoming request POST /login
+ [*] 30-04-2024 18:36:58  incoming request GET /Dashboard
+ [*] 30-04-2024 18:36:59  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:36:59  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:37:01  incoming request GET /POST
+ [*] 30-04-2024 18:37:01  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:37:39  incoming request GET /POST
+ [*] 30-04-2024 18:37:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:37:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:37:41  incoming request GET /Dashboard
+ [*] 30-04-2024 18:37:41  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:37:41  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:37:43  incoming request GET /POST
+ [*] 30-04-2024 18:37:43  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:37:57  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:38:01  incoming request GET /POST
+ [*] 30-04-2024 18:38:01  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:38:07  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:38:10  incoming request GET /POST
+ [*] 30-04-2024 18:38:10  incoming request GET /favicon.ico
+ [+] 30-04-2024 18:39:05  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:39:05  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:39:05  Database Successfully Conected
+ [+] 30-04-2024 18:39:05  Data Was Served..
+ [+] 30-04-2024 18:39:05  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 18:39:06  incoming request GET /POST
+ [*] 30-04-2024 18:39:06  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:39:08  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:39:09  incoming request GET /POST
+ [*] 30-04-2024 18:39:09  incoming request GET /favicon.ico
+ [+] 30-04-2024 18:39:52  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:39:52  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:39:52  Database Successfully Conected
+ [+] 30-04-2024 18:39:52  Data Was Served..
+ [+] 30-04-2024 18:39:52  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 18:39:54  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:39:54  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:39:56  incoming request POST /login
+ [*] 30-04-2024 18:39:56  incoming request GET /Dashboard
+ [*] 30-04-2024 18:39:56  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:39:56  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:39:59  incoming request GET /POST
+ [*] 30-04-2024 18:39:59  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:09  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:10  incoming request GET /Dashboard
+ [*] 30-04-2024 18:41:10  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:10  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:11  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:11  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:11  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:12  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:12  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:12  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:12  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:12  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:12  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:12  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:12  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:12  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:13  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:13  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:13  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:13  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:13  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:13  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:13  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:13  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:13  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:13  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:13  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:13  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:13  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:13  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:13  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:13  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:13  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:13  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:13  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:14  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:14  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:14  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:14  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:14  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:14  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:14  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:14  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:14  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:14  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:14  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:14  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:14  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:14  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:14  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:14  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:14  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:14  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:14  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:14  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:14  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:14  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:15  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:15  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:15  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:15  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:15  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:15  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:15  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:15  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:15  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:15  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:15  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:15  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:16  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:16  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:16  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:16  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:17  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:17  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:17  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:17  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:17  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:17  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:17  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:17  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:17  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:18  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:18  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:18  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:41:18  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:18  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:18  incoming request POST /Dashboard
+ [*] 30-04-2024 18:41:18  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:41:18  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:07  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:07  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:07  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:22  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:22  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:22  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:24  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:25  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:26  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:26  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:26  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:27  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:28  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:28  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:28  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:28  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:29  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:29  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:29  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:29  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:29  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:29  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:29  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:30  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:30  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:30  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:30  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:30  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:30  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:31  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:31  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:31  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:31  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:31  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:31  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:31  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:32  incoming request GET /Dashboard
+ [*] 30-04-2024 18:45:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:32  incoming request GET /login
+ [*] 30-04-2024 18:45:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:34  incoming request POST /login
+ [*] 30-04-2024 18:45:34  incoming request GET /Dashboard
+ [*] 30-04-2024 18:45:34  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:34  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:36  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:36  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:36  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:37  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:37  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:37  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:37  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:37  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:37  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:37  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:37  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:37  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:38  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:38  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:38  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:38  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:38  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:38  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:38  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:38  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:38  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:39  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:39  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:39  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:39  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:39  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:39  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:39  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:39  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:39  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:39  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:40  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:40  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:40  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:40  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:40  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:40  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:40  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:40  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:41  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:41  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:41  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:41  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:41  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:41  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:41  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:41  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:41  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:42  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:42  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:42  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:42  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:42  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:42  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:42  incoming request POST /Dashboard
+ [*] 30-04-2024 18:45:42  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:45:42  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:43  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:45:43  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:46:09  incoming request GET /POST
+ [*] 30-04-2024 18:46:09  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:46:10  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:46:11  incoming request GET /POST
+ [*] 30-04-2024 18:46:11  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:46:12  incoming request GET /Dashboard
+ [*] 30-04-2024 18:46:12  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:46:12  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:46:13  incoming request GET /Dashboard
+ [*] 30-04-2024 18:46:13  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:46:13  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:46:13  incoming request GET /Dashboard
+ [*] 30-04-2024 18:46:13  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:46:13  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:46:33  incoming request GET /Dashboard
+ [*] 30-04-2024 18:46:33  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:46:33  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:46:46  incoming request GET /Dashboard
+ [*] 30-04-2024 18:46:46  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:46:46  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:47:05  incoming request GET /Dashboard
+ [*] 30-04-2024 18:47:05  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:47:05  incoming request GET /favicon.ico
+ [+] 30-04-2024 18:49:23  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:49:23  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:49:23  Database Successfully Conected
+ [+] 30-04-2024 18:49:23  Data Was Served..
+ [+] 30-04-2024 18:49:23  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:49:45  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:49:45  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:49:45  Database Successfully Conected
+ [+] 30-04-2024 18:49:45  Data Was Served..
+ [+] 30-04-2024 18:49:45  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:49:49  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:49:49  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:49:49  Database Successfully Conected
+ [+] 30-04-2024 18:49:49  Data Was Served..
+ [+] 30-04-2024 18:49:49  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:50:12  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:50:12  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:50:12  Database Successfully Conected
+ [+] 30-04-2024 18:50:12  Data Was Served..
+ [+] 30-04-2024 18:50:12  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:51:45  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:51:45  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:51:45  Database Successfully Conected
+ [+] 30-04-2024 18:51:45  Data Was Served..
+ [+] 30-04-2024 18:51:45  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:51:50  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:51:50  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:51:50  Database Successfully Conected
+ [+] 30-04-2024 18:51:50  Data Was Served..
+ [+] 30-04-2024 18:51:50  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:51:58  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:51:58  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:51:58  Database Successfully Conected
+ [+] 30-04-2024 18:51:58  Data Was Served..
+ [+] 30-04-2024 18:51:58  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:52:16  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:52:16  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:52:16  Database Successfully Conected
+ [+] 30-04-2024 18:52:16  Data Was Served..
+ [+] 30-04-2024 18:52:16  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 18:52:17  incoming request GET /Dashboard
+ [*] 30-04-2024 18:52:17  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:52:17  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:52:19  incoming request POST /Dashboard
+ [+] 30-04-2024 18:52:31  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:52:31  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:52:31  Database Successfully Conected
+ [+] 30-04-2024 18:52:31  Data Was Served..
+ [+] 30-04-2024 18:52:31  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 18:52:31  incoming request POST /Dashboard
+ [*] 30-04-2024 18:52:31  incoming request GET /login
+ [*] 30-04-2024 18:52:32  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:52:35  incoming request POST /login
+ [*] 30-04-2024 18:52:35  incoming request GET /Dashboard
+ [*] 30-04-2024 18:52:36  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:52:36  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:52:37  incoming request POST /Dashboard
+ [*] 30-04-2024 18:52:37  incoming request GET /login
+ [*] 30-04-2024 18:52:37  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:52:41  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:52:42  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:52:45  incoming request POST /login
+ [*] 30-04-2024 18:52:45  incoming request GET /Dashboard
+ [*] 30-04-2024 18:52:45  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:52:45  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:52:46  incoming request POST /Dashboard
+ [*] 30-04-2024 18:52:46  incoming request GET /login
+ [*] 30-04-2024 18:52:46  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:52:48  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:52:49  incoming request POST /Dashboard
+ [*] 30-04-2024 18:52:49  incoming request GET /login
+ [*] 30-04-2024 18:52:49  incoming request GET /favicon.ico
+ [+] 30-04-2024 18:55:01  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:55:01  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:55:01  Database Successfully Conected
+ [+] 30-04-2024 18:55:01  Data Was Served..
+ [+] 30-04-2024 18:55:01  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:55:07  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:55:07  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:55:07  Database Successfully Conected
+ [+] 30-04-2024 18:55:07  Data Was Served..
+ [+] 30-04-2024 18:55:07  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:55:11  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:55:11  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:55:11  Database Successfully Conected
+ [+] 30-04-2024 18:55:11  Data Was Served..
+ [+] 30-04-2024 18:55:11  Mongo DB disconnected Successfully.....
+ [+] 30-04-2024 18:55:45  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 30-04-2024 18:55:45  Mongo DB Connected Successfully.....
+ [+] 30-04-2024 18:55:45  Database Successfully Conected
+ [+] 30-04-2024 18:55:45  Data Was Served..
+ [+] 30-04-2024 18:55:45  Mongo DB disconnected Successfully.....
+ [*] 30-04-2024 18:55:49  incoming request POST /login
+ [*] 30-04-2024 18:55:49  incoming request GET /Dashboard
+ [*] 30-04-2024 18:55:49  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:55:49  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:55:51  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:51  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:55:51  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:55:51  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:51  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:55:51  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:55:52  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:52  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:55:52  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:55:52  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:52  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:52  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:52  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:53  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:55:53  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:55:53  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:53  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:55:53  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:55:53  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:53  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:55:53  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:55:54  incoming request POST /Dashboard
+ [*] 30-04-2024 18:55:54  incoming request GET /login
+ [*] 30-04-2024 18:55:54  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:55:56  incoming request POST /login
+ [*] 30-04-2024 18:55:56  incoming request GET /Dashboard
+ [*] 30-04-2024 18:55:57  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:55:57  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:56:03  incoming request POST /Dashboard
+ [*] 30-04-2024 18:56:03  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:56:03  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:56:03  incoming request POST /Dashboard
+ [*] 30-04-2024 18:56:03  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:56:04  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:56:04  incoming request POST /Dashboard
+ [*] 30-04-2024 18:56:04  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:56:04  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:56:05  incoming request POST /Dashboard
+ [*] 30-04-2024 18:56:05  incoming request GET /login
+ [*] 30-04-2024 18:56:05  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:56:07  incoming request POST /login
+ [*] 30-04-2024 18:56:07  incoming request GET /Dashboard
+ [*] 30-04-2024 18:56:07  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:56:07  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:56:21  incoming request POST /Dashboard
+ [*] 30-04-2024 18:56:21  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:56:21  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:56:22  incoming request POST /Dashboard
+ [*] 30-04-2024 18:56:22  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:56:22  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:56:22  incoming request POST /Dashboard
+ [*] 30-04-2024 18:56:22  incoming request GET /Js/Dashboard.js
+ [*] 30-04-2024 18:56:22  incoming request GET /favicon.ico
+ [*] 30-04-2024 18:56:23  incoming request POST /Dashboard
+ [*] 30-04-2024 18:56:23  incoming request GET /login
+ [*] 30-04-2024 18:56:23  incoming request GET /favicon.ico

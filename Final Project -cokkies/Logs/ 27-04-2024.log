@@ -1,0 +1,327 @@
+[+] 27-04-2024 08:06:58  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:06:58  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:06:58  Database Successfully Conected
+ [+] 27-04-2024 08:06:58  Data Was Served..
+ [+] 27-04-2024 08:06:58  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:07:20  incoming request GET /
+ [*] 27-04-2024 08:07:22  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:07:28  incoming request GET /login
+ [*] 27-04-2024 08:07:29  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:10:42  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:10:43  incoming request GET /Signup
+ [*] 27-04-2024 08:10:43  incoming request GET /Image/feedback.png
+ [*] 27-04-2024 08:10:44  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:10:50  incoming request GET /favicon.ico
+ [+] 27-04-2024 08:13:54  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:13:54  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:13:54  Database Successfully Conected
+ [+] 27-04-2024 08:13:54  Data Was Served..
+ [+] 27-04-2024 08:13:54  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:13:55  incoming request GET /
+ [*] 27-04-2024 08:13:56  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:14:05  incoming request GET /
+ [*] 27-04-2024 08:14:05  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:14:07  incoming request POST /
+ [*] 27-04-2024 08:14:07  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:07  incoming request GET /
+ [*] 27-04-2024 08:15:07  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:09  incoming request POST /
+ [*] 27-04-2024 08:15:09  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:16  incoming request POST /
+ [*] 27-04-2024 08:15:16  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:16  incoming request POST /
+ [*] 27-04-2024 08:15:17  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:17  incoming request POST /
+ [*] 27-04-2024 08:15:17  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:17  incoming request POST /
+ [*] 27-04-2024 08:15:17  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:17  incoming request POST /
+ [*] 27-04-2024 08:15:17  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:17  incoming request POST /
+ [*] 27-04-2024 08:15:17  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:18  incoming request POST /
+ [*] 27-04-2024 08:15:18  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:18  incoming request POST /
+ [*] 27-04-2024 08:15:18  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:18  incoming request POST /
+ [*] 27-04-2024 08:15:18  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:18  incoming request POST /
+ [*] 27-04-2024 08:15:18  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:19  incoming request POST /
+ [*] 27-04-2024 08:15:19  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:19  incoming request POST /
+ [*] 27-04-2024 08:15:19  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:19  incoming request POST /
+ [*] 27-04-2024 08:15:19  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:19  incoming request POST /
+ [*] 27-04-2024 08:15:19  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:19  incoming request POST /
+ [*] 27-04-2024 08:15:20  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:15:20  incoming request POST /
+ [*] 27-04-2024 08:15:20  incoming request GET /favicon.ico
+ [+] 27-04-2024 08:16:02  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:16:02  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:16:02  Database Successfully Conected
+ [+] 27-04-2024 08:16:02  Data Was Served..
+ [+] 27-04-2024 08:16:02  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:16:02  incoming request GET /
+ [*] 27-04-2024 08:16:03  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:16:04  incoming request POST /
+ [+] 27-04-2024 08:16:40  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:16:40  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:16:40  Database Successfully Conected
+ [+] 27-04-2024 08:16:40  Data Was Served..
+ [+] 27-04-2024 08:16:40  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:16:44  incoming request GET /login
+ [*] 27-04-2024 08:16:46  incoming request POST /login
+ [+] 27-04-2024 08:21:01  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:21:01  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:21:01  Database Successfully Conected
+ [+] 27-04-2024 08:21:01  Data Was Served..
+ [+] 27-04-2024 08:21:01  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:21:02  incoming request GET /login
+ [*] 27-04-2024 08:21:04  incoming request POST /login
+ [*] 27-04-2024 08:21:11  incoming request POST /login
+ [*] 27-04-2024 08:21:11  incoming request POST /login
+ [*] 27-04-2024 08:21:11  incoming request POST /login
+ [*] 27-04-2024 08:21:11  incoming request POST /login
+ [*] 27-04-2024 08:21:12  incoming request POST /login
+ [*] 27-04-2024 08:21:12  incoming request POST /login
+ [*] 27-04-2024 08:21:12  incoming request POST /login
+ [*] 27-04-2024 08:21:12  incoming request POST /login
+ [*] 27-04-2024 08:21:17  incoming request GET /login
+ [*] 27-04-2024 08:21:33  incoming request POST /login
+ [*] 27-04-2024 08:22:54  incoming request GET /login
+ [*] 27-04-2024 08:22:58  incoming request POST /login
+ [+] 27-04-2024 08:26:38  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:26:38  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:26:38  Database Successfully Conected
+ [+] 27-04-2024 08:26:38  Data Was Served..
+ [+] 27-04-2024 08:26:38  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:26:39  incoming request GET /
+ [*] 27-04-2024 08:26:48  incoming request GET /
+ [*] 27-04-2024 08:26:49  incoming request GET /
+ [+] 27-04-2024 08:27:22  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:27:22  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:27:22  Database Successfully Conected
+ [+] 27-04-2024 08:27:22  Data Was Served..
+ [+] 27-04-2024 08:27:22  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:27:28  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:27:28  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:27:28  Database Successfully Conected
+ [+] 27-04-2024 08:27:28  Data Was Served..
+ [+] 27-04-2024 08:27:28  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:27:29  incoming request GET /
+ [*] 27-04-2024 08:27:30  incoming request GET /favicon.ico
+ [*] 27-04-2024 08:27:31  incoming request GET /login
+ [+] 27-04-2024 08:30:11  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:30:11  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:30:11  Database Successfully Conected
+ [+] 27-04-2024 08:30:11  Data Was Served..
+ [+] 27-04-2024 08:30:11  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:30:11  incoming request GET /login
+ [*] 27-04-2024 08:30:18  incoming request GET /
+ [*] 27-04-2024 08:30:20  incoming request GET /login
+ [*] 27-04-2024 08:30:22  incoming request POST /login
+ [*] 27-04-2024 08:30:22  incoming request GET /Dashboard
+ [+] 27-04-2024 08:30:55  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:30:55  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:30:55  Database Successfully Conected
+ [+] 27-04-2024 08:30:55  Data Was Served..
+ [+] 27-04-2024 08:30:55  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:30:57  incoming request POST /login
+ [*] 27-04-2024 08:30:57  incoming request GET /Dashboard
+ [*] 27-04-2024 08:30:58  incoming request GET /CSS/styles.css
+ [*] 27-04-2024 08:30:58  incoming request GET /Js/Dashboard.js
+ [*] 27-04-2024 08:32:23  incoming request GET /login
+ [*] 27-04-2024 08:32:24  incoming request POST /login
+ [*] 27-04-2024 08:32:24  incoming request GET /Dashboard
+ [*] 27-04-2024 08:32:24  incoming request GET /Js/Dashboard.js
+ [+] 27-04-2024 08:33:06  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:33:06  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:33:06  Database Successfully Conected
+ [+] 27-04-2024 08:33:06  Data Was Served..
+ [+] 27-04-2024 08:33:06  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:34:23  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:34:23  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:34:23  Database Successfully Conected
+ [+] 27-04-2024 08:34:23  Data Was Served..
+ [+] 27-04-2024 08:34:23  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:35:34  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:35:34  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:35:34  Database Successfully Conected
+ [+] 27-04-2024 08:35:34  Data Was Served..
+ [+] 27-04-2024 08:35:34  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 08:35:49  incoming request GET /
+ [*] 27-04-2024 08:35:52  incoming request GET /login
+ [*] 27-04-2024 08:35:55  incoming request POST /login
+ [*] 27-04-2024 08:36:04  incoming request POST /login
+ [*] 27-04-2024 08:36:04  incoming request GET /Dashboard
+ [*] 27-04-2024 08:36:04  incoming request GET /Js/Dashboard.js
+ [*] 27-04-2024 08:37:21  incoming request POST /login
+ [*] 27-04-2024 08:37:45  incoming request POST /login
+ [*] 27-04-2024 08:39:06  incoming request POST /login
+ [*] 27-04-2024 08:39:06  incoming request GET /Dashboard
+ [*] 27-04-2024 08:39:06  incoming request GET /Js/Dashboard.js
+ [*] 27-04-2024 08:39:11  incoming request POST /login
+ [*] 27-04-2024 08:39:29  incoming request POST /login
+ [+] 27-04-2024 08:52:49  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:52:49  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:52:49  Database Successfully Conected
+ [+] 27-04-2024 08:52:49  Data Was Served..
+ [+] 27-04-2024 08:52:49  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:53:40  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:53:40  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:53:40  Database Successfully Conected
+ [+] 27-04-2024 08:53:40  Data Was Served..
+ [+] 27-04-2024 08:53:40  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:54:12  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:54:12  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:54:12  Database Successfully Conected
+ [+] 27-04-2024 08:54:12  Data Was Served..
+ [+] 27-04-2024 08:54:12  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:54:32  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:54:32  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:54:32  Database Successfully Conected
+ [+] 27-04-2024 08:54:32  Data Was Served..
+ [+] 27-04-2024 08:54:32  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:54:59  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:54:59  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:54:59  Database Successfully Conected
+ [+] 27-04-2024 08:54:59  Data Was Served..
+ [+] 27-04-2024 08:54:59  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:55:09  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:55:09  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:55:09  Database Successfully Conected
+ [+] 27-04-2024 08:55:09  Data Was Served..
+ [+] 27-04-2024 08:55:09  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:55:35  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:55:35  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:55:35  Database Successfully Conected
+ [+] 27-04-2024 08:55:35  Data Was Served..
+ [+] 27-04-2024 08:55:35  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:56:44  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:56:44  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:56:44  Database Successfully Conected
+ [+] 27-04-2024 08:56:44  Data Was Served..
+ [+] 27-04-2024 08:56:44  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:57:03  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:57:03  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:57:03  Database Successfully Conected
+ [+] 27-04-2024 08:57:03  Data Was Served..
+ [+] 27-04-2024 08:57:03  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:59:31  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:59:31  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:59:31  Database Successfully Conected
+ [+] 27-04-2024 08:59:31  Data Was Served..
+ [+] 27-04-2024 08:59:31  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 08:59:50  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 08:59:50  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 08:59:50  Database Successfully Conected
+ [+] 27-04-2024 08:59:50  Data Was Served..
+ [+] 27-04-2024 08:59:50  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:00:51  incoming request GET /login
+ [*] 27-04-2024 09:00:55  incoming request GET /
+ [*] 27-04-2024 09:01:04  incoming request GET /dashboard
+ [*] 27-04-2024 09:01:04  incoming request GET /login
+ [+] 27-04-2024 09:02:14  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:02:14  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:02:14  Database Successfully Conected
+ [+] 27-04-2024 09:02:14  Data Was Served..
+ [+] 27-04-2024 09:02:14  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:02:14  incoming request GET /login
+ [*] 27-04-2024 09:02:32  incoming request GET /dashboard
+ [+] 27-04-2024 09:02:41  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:02:41  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:02:41  Database Successfully Conected
+ [+] 27-04-2024 09:02:41  Data Was Served..
+ [+] 27-04-2024 09:02:41  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:02:41  incoming request GET /dashboard
+ [*] 27-04-2024 09:02:41  incoming request GET /login
+ [*] 27-04-2024 09:12:00  incoming request GET /login
+ [*] 27-04-2024 09:12:03  incoming request POST /login
+ [*] 27-04-2024 09:12:14  incoming request GET /login
+ [*] 27-04-2024 09:12:14  incoming request GET /login
+ [*] 27-04-2024 09:12:15  incoming request GET /login
+ [*] 27-04-2024 09:12:18  incoming request POST /login
+ [*] 27-04-2024 09:12:35  incoming request POST /login
+ [*] 27-04-2024 09:12:40  incoming request POST /login
+ [*] 27-04-2024 09:12:42  incoming request POST /login
+ [*] 27-04-2024 09:12:42  incoming request POST /login
+ [*] 27-04-2024 09:12:42  incoming request POST /login
+ [*] 27-04-2024 09:12:48  incoming request GET /
+ [*] 27-04-2024 09:12:50  incoming request GET /login
+ [*] 27-04-2024 09:12:52  incoming request POST /login
+ [+] 27-04-2024 09:13:36  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:13:36  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:13:36  Database Successfully Conected
+ [+] 27-04-2024 09:13:36  Data Was Served..
+ [+] 27-04-2024 09:13:36  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:13:37  incoming request GET /login
+ [*] 27-04-2024 09:13:42  incoming request POST /login
+ [+] 27-04-2024 09:13:58  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:13:58  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:13:58  Database Successfully Conected
+ [+] 27-04-2024 09:13:58  Data Was Served..
+ [+] 27-04-2024 09:13:58  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:14:10  incoming request GET /
+ [*] 27-04-2024 09:14:12  incoming request GET /login
+ [*] 27-04-2024 09:14:15  incoming request POST /login
+ [+] 27-04-2024 09:16:06  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:16:06  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:16:06  Database Successfully Conected
+ [+] 27-04-2024 09:16:06  Data Was Served..
+ [+] 27-04-2024 09:16:06  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:16:06  incoming request POST /login
+ [*] 27-04-2024 09:16:06  incoming request GET /Dashboard
+ [*] 27-04-2024 09:16:06  incoming request GET /login
+ [*] 27-04-2024 09:16:14  incoming request GET /
+ [*] 27-04-2024 09:16:15  incoming request GET /login
+ [*] 27-04-2024 09:16:18  incoming request POST /login
+ [*] 27-04-2024 09:16:18  incoming request GET /Dashboard
+ [*] 27-04-2024 09:16:18  incoming request GET /login
+ [*] 27-04-2024 09:16:20  incoming request POST /login
+ [*] 27-04-2024 09:16:20  incoming request GET /Dashboard
+ [*] 27-04-2024 09:16:20  incoming request GET /login
+ [*] 27-04-2024 09:16:21  incoming request POST /login
+ [*] 27-04-2024 09:16:21  incoming request GET /Dashboard
+ [*] 27-04-2024 09:16:21  incoming request GET /login
+ [+] 27-04-2024 09:17:54  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:17:54  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:17:54  Database Successfully Conected
+ [+] 27-04-2024 09:17:54  Data Was Served..
+ [+] 27-04-2024 09:17:54  Mongo DB disconnected Successfully.....
+ [+] 27-04-2024 09:18:46  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:18:46  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:18:46  Database Successfully Conected
+ [+] 27-04-2024 09:18:46  Data Was Served..
+ [+] 27-04-2024 09:18:46  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:19:16  incoming request GET /login
+ [*] 27-04-2024 09:19:21  incoming request POST /login
+ [*] 27-04-2024 09:19:21  incoming request GET /Dashboard
+ [+] 27-04-2024 09:19:36  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:19:37  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:19:37  Database Successfully Conected
+ [+] 27-04-2024 09:19:37  Data Was Served..
+ [+] 27-04-2024 09:19:37  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:19:37  incoming request GET /Dashboard
+ [*] 27-04-2024 09:19:37  incoming request GET /login
+ [*] 27-04-2024 09:19:40  incoming request POST /login
+ [*] 27-04-2024 09:19:40  incoming request GET /Dashboard
+ [*] 27-04-2024 09:19:40  incoming request GET /login
+ [+] 27-04-2024 09:20:12  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:20:12  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:20:12  Database Successfully Conected
+ [+] 27-04-2024 09:20:12  Data Was Served..
+ [+] 27-04-2024 09:20:12  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:20:15  incoming request GET /login
+ [*] 27-04-2024 09:20:17  incoming request POST /login
+ [+] 27-04-2024 09:20:35  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 27-04-2024 09:20:35  Mongo DB Connected Successfully.....
+ [+] 27-04-2024 09:20:35  Database Successfully Conected
+ [+] 27-04-2024 09:20:35  Data Was Served..
+ [+] 27-04-2024 09:20:35  Mongo DB disconnected Successfully.....
+ [*] 27-04-2024 09:20:37  incoming request GET /login
+ [*] 27-04-2024 09:20:39  incoming request POST /login
+ [*] 27-04-2024 09:20:39  incoming request GET /Dashboard
+ [*] 27-04-2024 09:20:39  incoming request GET /Js/Dashboard.js

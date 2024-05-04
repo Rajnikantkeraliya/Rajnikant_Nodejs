@@ -1,0 +1,11 @@
+[+] 29-04-2024 20:09:35  servermanager successfully started On Port 3000. Ready to handle incoming requests.
+ [+] 29-04-2024 20:09:35  Mongo DB Connected Successfully.....
+ [+] 29-04-2024 20:09:35  Database Successfully Conected
+ [+] 29-04-2024 20:09:35  Data Was Served..
+ [+] 29-04-2024 20:09:35  Mongo DB disconnected Successfully.....
+ [*] 29-04-2024 20:09:37  incoming request GET /
+ [*] 29-04-2024 20:09:39  incoming request GET /favicon.ico
+ [*] 29-04-2024 20:09:41  incoming request GET /login
+ [*] 29-04-2024 20:09:46  incoming request POST /login
+ [*] 29-04-2024 20:09:46  incoming request GET /Dashboard
+ [*] 29-04-2024 20:09:46  incoming request GET /Js/Dashboard.js
